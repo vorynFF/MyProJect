@@ -1,0 +1,5 @@
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 自动回复列表接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/user/getToolkitTxt HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 getToolkitTxt:{'code': 200, 'body': {'data': {'giftTxt': 'pythontestgift', 'bombTxt': 'pythontestbomb', 'likeTxt': 'pythontestlike', 'id': 9928, 'friendTxt': 'pythontest', 'likeTxtUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/sticker/AND_STICKER_LIKE_1639470069661_58804776.fpng'}, 'id': '1676703859497', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703880741, 'userId': 58804776}}

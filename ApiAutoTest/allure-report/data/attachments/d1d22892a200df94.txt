@@ -1,0 +1,5 @@
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/friend/attentionConfirm HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 attentionConfirmApi params: {'friendUserId': 86724026}
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 attentionConfirmApi response: {'code': 200, 'body': {'data': {'addFriendStatus': '2', 'followStatus': '2'}, 'id': '1676703701157', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703708456, 'userId': 43211195}}

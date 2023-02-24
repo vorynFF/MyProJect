@@ -1,0 +1,144 @@
+{
+  "uid" : "ff79c67cd9af1be1",
+  "name" : "test_getImpressionMsgList",
+  "fullName" : "testcases.test_metab.test_impression.TestH5#test_getImpressionMsgList",
+  "historyId" : "ded0a3d99a788e06ea755ee4e53448bb",
+  "time" : {
+    "start" : 1676703842250,
+    "stop" : 1676703847349,
+    "duration" : 5099
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1676703614227,
+      "stop" : 1676703614342,
+      "duration" : 115
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "login",
+    "time" : {
+      "start" : 1676703839401,
+      "stop" : 1676703842249,
+      "duration" : 2848
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5623b59d2058b22d",
+      "name" : "log",
+      "source" : "5623b59d2058b22d.txt",
+      "type" : "text/plain",
+      "size" : 9028
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases.test_metab"
+  }, {
+    "name" : "suite",
+    "value" : "test_impression"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestH5"
+  }, {
+    "name" : "host",
+    "value" : "voryndeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "34442-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_metab.test_impression"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "5bdd2a7dfab6e134",
+        "reportUrl" : "http://localhost:8080/job/aaa/16/allure/#testresult/5bdd2a7dfab6e134",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676702710274,
+          "stop" : 1676702715030,
+          "duration" : 4756
+        }
+      }, {
+        "uid" : "c065d2fcca194463",
+        "reportUrl" : "http://localhost:8080/job/aaa/15/allure/#testresult/c065d2fcca194463",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676701690898,
+          "stop" : 1676701695648,
+          "duration" : 4750
+        }
+      }, {
+        "uid" : "2febf0103b1f20b2",
+        "reportUrl" : "http://localhost:8080/job/aaa/14/allure/#testresult/2febf0103b1f20b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676701008646,
+          "stop" : 1676701015657,
+          "duration" : 7011
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ff79c67cd9af1be1.json",
+  "parameterValues" : [ ]
+}

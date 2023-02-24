@@ -1,0 +1,5 @@
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 个人主页card信息接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/userCards/getUserAuthCardsList HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 getUserAuthCardsList:{'code': 200, 'body': {'data': {'userLinkUrl': 'http://dev.yofrog.me/bMBFfi', 'cardsList': [{'cardsNo': 1, 'id': 0, 'cardsUserName': ''}, {'cardsNo': 2, 'id': 0, 'cardsUserName': ''}, {'cardsNo': 3, 'id': 5000066, 'cardsUserName': 'kkkkkl'}]}, 'id': '1676703859497', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703874134, 'userId': 58804776}}

@@ -1,0 +1,12 @@
+allure-pytest
+pycryptodome
+pytest
+PyYAML
+requests
+pymysql
+sshtunnel
+faker-e164
+redis
+requests-pkcs12
+cryptography==38.0.0
+yagmail

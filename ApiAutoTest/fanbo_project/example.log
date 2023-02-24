@@ -1,0 +1,16 @@
+This is an INFO message.
+This is a WARNING message.
+This is an ERROR message.
+This is a CRITICAL message.
+2023-02-22 15:37:15,235 INFO This is an INFO message.
+2023-02-22 15:37:15,235 WARNING This is a WARNING message.
+2023-02-22 15:37:15,235 ERROR This is an ERROR message.
+2023-02-22 15:37:15,235 CRITICAL This is a CRITICAL message.
+2023-02-22 15:38:01,306 INFO This is an INFO message.
+2023-02-22 15:38:01,307 WARNING This is a WARNING message.
+2023-02-22 15:38:01,307 ERROR This is an ERROR message.
+2023-02-22 15:38:01,307 CRITICAL This is a CRITICAL message.
+[1;32m[2023-02-22 15:39:50,289] [INFO] This is an INFO message.[0m
+[1;33m[2023-02-22 15:39:50,289] [WARNING] This is a WARNING message.[0m
+[1;31m[2023-02-22 15:39:50,289] [ERROR] This is an ERROR message.[0m
+[1;41m[2023-02-22 15:39:50,289] [CRITICAL] This is a CRITICAL message.[0m

@@ -1,0 +1,1397 @@
+mobile_brand_name,mobile_model_name,mobile_marketing_name,operating_system_version,cnt,cnt
+Apple,iPhone 11,,iOS 15.6.1,3508,0.053412915
+Apple,iPhone 11,,iOS 16.0,3486,0.053077942
+Apple,iPhone XR,,iOS 16.0,1824,0.027772279
+Apple,iPhone 12,,iOS 16.0,1809,0.027543889
+Apple,iPhone 13,,iOS 16.0,1751,0.026660779
+Apple,iPhone XR,,iOS 15.6.1,1730,0.026341033
+Apple,iPhone 12,,iOS 15.6.1,1594,0.024270292
+Apple,iPhone SE (2nd generation),,iOS 15.6.1,1579,0.024041902
+Apple,iPhone 13,,iOS 15.6.1,1473,0.022427943
+Apple,iPhone 11,,iOS 15.6,1223,0.018621435
+Apple,iPhone 11,,iOS 16.0.2,1162,0.017692647
+Apple,iPhone 11,,iOS 15.5,1005,0.015302161
+Apple,iPhone SE (2nd generation),,iOS 16.0,892,0.013581619
+Apple,iPhone,,iOS 15.6.1,803,0.012226502
+Apple,iPhone,,iOS 16.0,782,0.011906756
+Apple,iPhone 13 Pro Max,,iOS 15.6.1,767,0.011678365
+Apple,iPhone 8,,iOS 15.6.1,735,0.011191132
+Apple,iPhone 7,,iOS 15.6.1,717,0.010917064
+Apple,iPhone XR,,iOS 15.6,705,0.010734351
+Apple,iPhone 12,,iOS 15.6,676,0.010292797
+Apple,iPhone XR,,iOS 15.5,666,0.010140536
+Apple,iPhone 13 Pro Max,,iOS 16.0,641,0.009759886
+Apple,iPhone 8 Plus,,iOS 15.6.1,606,0.009226974
+Apple,iPhone XR,,iOS 16.0.2,586,0.008922454
+Apple,iPhone 7,,iOS 15.7,582,0.00886155
+Apple,iPhone 12,,iOS 16.0.2,564,0.008587481
+Apple,iPhone SE (2nd generation),,iOS 15.6,552,0.008404769
+Apple,iPhone SE (2nd generation),,iOS 15.5,545,0.008298187
+Apple,iPhone 12,,iOS 15.5,544,0.008282961
+Apple,iPhone 13,,iOS 15.6,518,0.007887084
+Apple,iPhone 13,,iOS 16.0.2,497,0.007567337
+Apple,iPhone 8,,iOS 16.0,482,0.007338947
+Apple,iPhone 13 Pro,,iOS 16.0,478,0.007278043
+Apple,iPhone 12 mini,,iOS 15.6.1,463,0.007049652
+Apple,iPhone,,iOS 16.0.2,455,0.006927844
+Apple,iPhone 12 mini,,iOS 16.0,435,0.006623323
+Apple,iPhone X,,iOS 15.6.1,432,0.006577645
+Apple,iPhone 13 Pro,,iOS 15.6.1,427,0.006501515
+Apple,iPhone X,,iOS 16.0,420,0.006394933
+Apple,iPhone 13,,iOS 15.5,400,0.006090412
+Apple,iPhone 11,,iOS 16.0.3,380,0.005785892
+Apple,iPhone 11,,iOS 16.1,378,0.005755439
+Apple,iPhone SE (2nd generation),,iOS 16.0.2,374,0.005694535
+Apple,iPhone 7,,iOS 15.5,356,0.005420467
+Apple,iPhone 8,,iOS 15.5,342,0.005207302
+Apple,iPhone 11 Pro Max,,iOS 15.6.1,338,0.005146398
+Apple,iPhone 11 Pro Max,,iOS 16.0,326,0.004963686
+Apple,iPhone 7 Plus,,iOS 15.6.1,323,0.004918008
+Apple,iPhone,,iOS 15.6,314,0.004780974
+Apple,iPhone 8,,iOS 15.6,303,0.004613487
+Apple,iPhone 12 Pro,,iOS 16.0,302,0.004598261
+Apple,iPhone 13 Pro Max,,iOS 15.6,294,0.004476453
+Apple,iPhone 8 Plus,,iOS 16.0,288,0.004385097
+Apple,iPhone XS,,iOS 15.6.1,286,0.004354645
+Apple,iPhone 12 Pro,,iOS 15.6.1,271,0.004126254
+Apple,iPhone XS Max,,iOS 15.6.1,263,0.004004446
+Apple,iPhone 7,,iOS 15.6,259,0.003943542
+Apple,iPhone 7 Plus,,iOS 15.7,255,0.003882638
+Apple,iPhone 11 Pro,,iOS 16.0,251,0.003821734
+Apple,iPhone XS,,iOS 16.0,249,0.003791282
+Apple,iPhone 6s,,iOS 15.6.1,247,0.00376083
+Apple,iPhone XS Max,,iOS 16.0,239,0.003639021
+Apple,iPhone,,iOS 16.0.3,236,0.003593343
+Apple,iPhone 11 Pro,,iOS 15.6.1,229,0.003486761
+Apple,iPhone,,iOS 15.5,219,0.003334501
+Apple,iPhone 11,,iOS 15.4.1,219,0.003334501
+Apple,iPhone 13 mini,,iOS 15.6.1,217,0.003304049
+Apple,iPhone 8,,iOS 16.0.2,211,0.003212692
+Apple,iPhone XR,,iOS 16.0.3,208,0.003167014
+Apple,iPhone X,,iOS 15.5,208,0.003167014
+Apple,iPhone 13 Pro Max,,iOS 16.0.2,206,0.003136562
+Apple,iPhone 12 mini,,iOS 16.0.2,202,0.003075658
+Apple,iPhone 12,,iOS 15.4.1,197,0.002999528
+Apple,iPhone 8 Plus,,iOS 15.6,194,0.00295385
+Apple,iPhone 13 mini,,iOS 16.0,191,0.002908172
+Apple,iPhone 12,,iOS 16.0.3,191,0.002908172
+Apple,iPhone 11,,iOS 15.7,190,0.002892946
+Apple,iPhone XR,,iOS 16.1,185,0.002816816
+Apple,iPhone 13 Pro Max,,iOS 15.5,184,0.00280159
+Apple,iPhone 13,,iOS 16.1,182,0.002771138
+Apple,iPhone 8 Plus,,iOS 15.5,181,0.002755912
+Apple,iPhone SE (2nd generation),,iOS 15.4.1,179,0.002725459
+Apple,iPhone 12 mini,,iOS 15.3.1,172,0.002618877
+Apple,iPhone,,iOS 16.1,171,0.002603651
+Apple,iPhone 6s,,iOS 15.7,170,0.002588425
+Apple,iPhone X,,iOS 16.0.2,169,0.002573199
+Apple,iPhone 13 Pro,,iOS 15.6,169,0.002573199
+Apple,iPhone 12,,iOS 16.1,169,0.002573199
+Apple,iPhone 12 mini,,iOS 15.5,164,0.002497069
+Apple,iPhone 12 mini,,iOS 15.6,163,0.002481843
+Apple,iPhone 13,,iOS 16.0.3,162,0.002466617
+Apple,iPhone XR,,iOS 15.4.1,161,0.002451391
+Apple,iPhone 6,,iOS 12.5.5,161,0.002451391
+Apple,iPhone X,,iOS 15.6,160,0.002436165
+Apple,iPhone 6,,iOS 12.5.6,150,0.002283905
+Apple,iPhone XR,,iOS 14.6,141,0.00214687
+Apple,iPhone 11 Pro Max,,iOS 15.5,134,0.002040288
+Apple,iPad (9th gen),,iOS 15.6.1,133,0.002025062
+Apple,iPhone 8 Plus,,iOS 16.0.2,131,0.00199461
+Apple,iPhone 13 Pro,,iOS 16.0.2,130,0.001979384
+Apple,iPhone 7,,iOS 15.4.1,128,0.001948932
+Apple,iPhone XR,,iOS 14.8.1,125,0.001903254
+Apple,iPhone XR,,iOS 15.7,124,0.001888028
+Apple,iPhone 7,,iOS 14.7.1,123,0.001872802
+Apple,iPhone 11 Pro Max,,iOS 16.0.2,122,0.001857576
+Apple,iPhone XR,,iOS 14.7.1,122,0.001857576
+Apple,iPhone 11,,iOS 14.8.1,119,0.001811898
+Apple,iPhone SE (2nd generation),,iOS 16.0.3,119,0.001811898
+Apple,iPhone 7 Plus,,iOS 15.5,118,0.001796672
+Apple,iPhone 11 Pro Max,,iOS 15.6,118,0.001796672
+Apple,iPhone 7 Plus,,iOS 15.6,115,0.001750993
+Apple,iPhone 6s Plus,,iOS 15.6.1,114,0.001735767
+Apple,iPhone 13,,iOS 15.7,103,0.001568281
+Apple,iPhone XS,,iOS 15.6,102,0.001553055
+Apple,iPhone SE (2nd generation),,iOS 15.3.1,102,0.001553055
+Apple,iPhone 11 Pro,,iOS 15.0.2,102,0.001553055
+Apple,iPhone 6s,,iOS 15.5,100,0.001522603
+Apple,iPhone SE (2nd generation),,iOS 15.7,97,0.001476925
+Apple,iPhone XS Max,,iOS 15.6,96,0.001461699
+Apple,iPhone 13 Pro Max,,iOS 16.1,96,0.001461699
+Apple,iPad (8th gen),,iOS 15.6.1,93,0.001416021
+Apple,iPhone 12 Pro,,iOS 16.0.2,93,0.001416021
+Apple,iPhone XS,,iOS 16.0.2,92,0.001400795
+Apple,iPhone 11,,iOS 15.3.1,91,0.001385569
+Apple,iPhone XS Max,,iOS 16.0.2,91,0.001385569
+Apple,iPhone 13 Pro,,iOS 15.5,91,0.001385569
+Apple,iPhone 6s Plus,,iOS 15.7,88,0.001339891
+Apple,iPhone XS Max,,iOS 15.5,87,0.001324665
+Apple,iPhone 12 Pro,,iOS 15.6,87,0.001324665
+Apple,iPhone SE (2nd generation),,iOS 16.1,85,0.001294213
+Apple,iPhone 13,,iOS 15.4.1,83,0.001263761
+Apple,iPhone 6s,,iOS 15.6,82,0.001248534
+Apple,iPhone 8,,iOS 15.4.1,82,0.001248534
+Apple,iPhone 13 Pro Max,,iOS 16.0.3,82,0.001248534
+Apple,iPhone 12,,iOS 15.7,80,0.001218082
+Apple,iPad (9th gen),,iOS 15.5,79,0.001202856
+Apple,iPhone 13 mini,,iOS 16.0.2,79,0.001202856
+Apple,iPhone SE (2nd generation),,iOS 14.7.1,78,0.00118763
+Apple,iPhone XS,,iOS 15.5,78,0.00118763
+Apple,iPhone 7,,iOS 14.6,78,0.00118763
+Apple,iPhone 11 Pro,,iOS 16.0.2,74,0.001126726
+Apple,iPhone 11 Pro,,iOS 15.6,72,0.001096274
+Apple,iPhone XR,,iOS 15.3.1,72,0.001096274
+Apple,iPhone 11,,iOS 14.7.1,72,0.001096274
+Apple,iPhone 13 mini,,iOS 15.6,71,0.001081048
+Apple,iPhone 8,,iOS 16.0.3,69,0.001050596
+Apple,iPhone 8,,iOS 15.7,69,0.001050596
+Apple,iPhone 11,,iOS 15.1,68,0.00103537
+Apple,iPhone 12 Pro,,iOS 15.5,68,0.00103537
+Apple,iPad Air (4th gen),,iOS 15.6.1,68,0.00103537
+Apple,iPhone X,,iOS 16.0.3,66,0.001004918
+Apple,iPhone 7,,iOS 14.8.1,65,0.000989692
+Apple,iPhone 8,,iOS 16.1,65,0.000989692
+Apple,iPhone 7,,iOS 15.7.1,64,0.000974466
+Apple,iPhone SE (2nd generation),,iOS 14.8.1,63,0.00095924
+Apple,iPhone 11 Pro,,iOS 15.5,63,0.00095924
+Apple,iPhone,,iOS 16.0.1,62,0.000944014
+Apple,iPhone 13 mini,,iOS 15.5,62,0.000944014
+Apple,iPhone 13 Pro,,iOS 16.1,62,0.000944014
+Apple,iPhone,,iOS 11.0,62,0.000944014
+Apple,iPhone X,,iOS 14.0,62,0.000944014
+Apple,iPhone 7,,iOS 15.3.1,61,0.000928788
+Apple,iPhone SE,,iOS 15.6.1,60,0.000913562
+Apple,iPhone 11,,iOS 15.4,58,0.00088311
+Apple,iPhone 11 Pro Max,,iOS 16.0.3,56,0.000852658
+Apple,iPhone X,,iOS 16.1,55,0.000837432
+Apple,iPhone 12 mini,,iOS 16.0.3,55,0.000837432
+Apple,iPhone 11,,iOS 15.0.2,54,0.000822206
+Apple,iPhone X,,iOS 15.4.1,53,0.00080698
+Apple,iPhone 11,,iOS 14.6,53,0.00080698
+Apple,iPhone 8 Plus,,iOS 15.4.1,52,0.000791754
+Apple,iPhone 8,,iOS 14.6,52,0.000791754
+Apple,iPhone 8,,iOS 14.7.1,51,0.000776528
+Apple,iPhone SE (2nd generation),,iOS 14.6,50,0.000761302
+Apple,iPad (9th gen),,iOS 15.6,50,0.000761302
+Apple,iPhone 7,,iOS 15.1,49,0.000746075
+Apple,iPhone 7,,iOS 14.4.2,48,0.000730849
+Apple,iPhone 12 mini,,iOS 16.1,48,0.000730849
+Apple,iPad (7th gen),,iOS 15.6.1,48,0.000730849
+Apple,iPod touch (7th generation),,iOS 15.6.1,47,0.000715623
+Apple,iPad (8th gen),,iOS 15.5,47,0.000715623
+Apple,iPhone 13 Pro,,iOS 16.0.3,46,0.000700397
+Apple,iPhone 8,,iOS 15.3.1,46,0.000700397
+Apple,iPhone,,iOS 15.4.1,46,0.000700397
+Apple,iPhone 6s,,iOS 15.4.1,46,0.000700397
+Apple,iPhone XR,,iOS 15.1,45,0.000685171
+Apple,iPhone,,iOS 15.7,45,0.000685171
+Apple,iPhone 13 Pro Max,,iOS 15.4.1,44,0.000669945
+Apple,iPhone 11,,iOS 15.2,43,0.000654719
+Apple,iPhone 6s,,iOS 14.7.1,42,0.000639493
+Apple,iPhone 12,,iOS 14.8.1,41,0.000624267
+Apple,iPhone 13 mini,,iOS 16.1,41,0.000624267
+Apple,iPhone 7 Plus,,iOS 14.7.1,40,0.000609041
+Apple,iPhone 6s Plus,,iOS 15.5,40,0.000609041
+Apple,iPhone SE (2nd generation),,iOS 15.1,38,0.000578589
+Apple,iPhone 12 Pro,,iOS 16.1,38,0.000578589
+Apple,iPhone 12,,iOS 15.3.1,38,0.000578589
+Apple,iPhone 8 Plus,,iOS 15.7,38,0.000578589
+Apple,iPhone XS Max,,iOS 14.3,37,0.000563363
+Apple,iPhone X,,iOS 15.7,36,0.000548137
+Apple,iPhone 8 Plus,,iOS 16.0.3,36,0.000548137
+Apple,iPhone 8,,iOS 14.8.1,36,0.000548137
+Apple,iPhone 13 Pro Max,,iOS 15.7,36,0.000548137
+Apple,iPhone 8,,iOS 15.1,34,0.000517685
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.6.1,34,0.000517685
+Apple,iPhone 6 Plus,,iOS 12.5.5,34,0.000517685
+Apple,iPad mini (5th generation),,iOS 15.6.1,34,0.000517685
+Apple,iPad 6th gen,,iOS 15.6.1,34,0.000517685
+Apple,iPhone SE (2nd generation),,iOS 15.4,33,0.000502459
+Apple,iPhone 12 Pro,,iOS 16.0.3,33,0.000502459
+Apple,iPad (8th gen),,iOS 15.6,32,0.000487233
+Apple,iPad (7th gen),,iOS 15.5,32,0.000487233
+Apple,iPhone 8 Plus,,iOS 16.1,32,0.000487233
+Apple,iPhone XS,,iOS 16.0.3,32,0.000487233
+Apple,iPhone SE,,iOS 15.7,31,0.000472007
+Apple,iPhone XR,,iOS 15.4,30,0.000456781
+Apple,iPad Air (4th gen),,iOS 15.6,30,0.000456781
+Apple,iPhone XS Max,,iOS 16.1,30,0.000456781
+Apple,iPhone 11 Pro Max,,iOS 16.1,30,0.000456781
+Apple,iPhone 12 mini,,iOS 15.4.1,30,0.000456781
+Apple,iPad Air (4th gen),,iOS 15.5,30,0.000456781
+Apple,iPhone 11,,iOS 15.2.1,30,0.000456781
+Apple,iPhone,,iOS 15.4,29,0.000441555
+Apple,iPhone 8 Plus,,iOS 14.8.1,29,0.000441555
+Apple,iPhone 12,,iOS 15.1.1,29,0.000441555
+Apple,iPod touch (7th generation),,iOS 15.7,29,0.000441555
+Apple,iPhone 6 Plus,,iOS 12.5.6,29,0.000441555
+Apple,iPhone 11 Pro Max,,iOS 15.4.1,29,0.000441555
+Apple,iPhone XS Max,,iOS 15.4.1,29,0.000441555
+Apple,iPhone XS,,iOS 16.1,29,0.000441555
+Apple,iPhone XS Max,,iOS 16.0.3,29,0.000441555
+Apple,iPhone 12,,iOS 15.4,28,0.000426329
+Apple,iPhone 13 mini,,iOS 16.0.3,28,0.000426329
+Apple,iPhone XR,,iOS 14.8,28,0.000426329
+Apple,iPhone 7,,iOS 14.4,28,0.000426329
+Apple,iPhone 12 mini,,iOS 15.7,27,0.000411103
+Apple,iPhone 6s,,iOS 14.6,27,0.000411103
+Apple,iPhone 8 Plus,,iOS 14.7.1,25,0.000380651
+Apple,iPhone 7 Plus,,iOS 15.4.1,25,0.000380651
+Apple,iPhone 7 Plus,,iOS 15.7.1,25,0.000380651
+Apple,iPhone 12,,iOS 15.2.1,25,0.000380651
+Apple,iPhone 7 Plus,,iOS 15.3.1,24,0.000365425
+Apple,iPad 6th gen,,iOS 15.5,24,0.000365425
+Apple,iPhone 12 mini,,iOS 14.7.1,24,0.000365425
+Apple,iPhone SE (2nd generation),,iOS 15.2,24,0.000365425
+Apple,iPod touch (7th generation),,iOS 15.6,24,0.000365425
+Apple,iPod touch 6th gen,,iOS 12.5.6,24,0.000365425
+Apple,iPhone 12,,iOS 15.2,24,0.000365425
+Apple,iPad Air,,iOS 12.5.5,23,0.000350199
+Apple,iPhone 6s,,iOS 15.7.1,23,0.000350199
+Apple,iPhone 7,,iOS 14.8,23,0.000350199
+Apple,iPhone XS,,iOS 15.7,23,0.000350199
+Apple,iPhone 12,,iOS 15.1,22,0.000334973
+Apple,iPhone 11,,iOS 14.8,22,0.000334973
+Apple,iPhone XR,,iOS 15.2.1,22,0.000334973
+Apple,iPhone 13,,iOS 15.4,22,0.000334973
+Apple,iPhone 12 Pro,,iOS 15.4.1,22,0.000334973
+Apple,iPhone 8,,iOS 14.8,22,0.000334973
+Apple,iPhone 12,,iOS 14.7.1,21,0.000319747
+Apple,iPad (7th gen),,iOS 15.6,21,0.000319747
+Apple,iPhone 8 Plus,,iOS 15.3.1,21,0.000319747
+Apple,iPhone 6s Plus,,iOS 15.6,21,0.000319747
+Apple,iPhone 13 Pro,,iOS 15.7,21,0.000319747
+Apple,iPhone 7 Plus,,iOS 14.6,21,0.000319747
+Apple,iPad (9th gen),,iOS 15.7,21,0.000319747
+Apple,iPhone 7 Plus,,iOS 14.8.1,21,0.000319747
+Apple,iPhone 11,,iOS 15.0,21,0.000319747
+Apple,iPhone X,,iOS 14.8.1,20,0.000304521
+Apple,iPhone 7,,iOS 14.2,20,0.000304521
+Apple,iPod touch (7th generation),,iOS 15.5,20,0.000304521
+Apple,iPhone 13,,iOS 15.2,20,0.000304521
+Apple,iPhone XR,,iOS 14.4.2,20,0.000304521
+Apple,iPhone 11 Pro,,iOS 16.1,20,0.000304521
+Apple,iPhone 11 Pro,,iOS 16.0.3,20,0.000304521
+Apple,iPhone 13 mini,,iOS 15.7,20,0.000304521
+Apple,iPhone 11,,iOS 16.1.1,20,0.000304521
+Apple,iPhone SE (2nd generation),,iOS 14.4.2,19,0.000289295
+Apple,iPhone 6s,,iOS 15.3.1,19,0.000289295
+Apple,iPhone 5s,,iOS 12.5.5,19,0.000289295
+Apple,iPad (8th gen),,iOS 14.7.1,19,0.000289295
+Apple,iPhone 7,,iOS 15.2.1,19,0.000289295
+Apple,iPhone 13,,iOS 15.3.1,19,0.000289295
+Apple,iPod touch 6th gen,,iOS 12.5.5,19,0.000289295
+Apple,iPhone X,,iOS 15.1,19,0.000289295
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.6.1,19,0.000289295
+Apple,iPhone XR,,iOS 14.2,19,0.000289295
+Apple,iPad (8th gen),,iOS 14.6,19,0.000289295
+Apple,iPhone 13,,iOS 15.1.1,18,0.000274069
+Apple,iPad (8th gen),,iOS 15.7,18,0.000274069
+Apple,iPhone 6s Plus,,iOS 15.4.1,18,0.000274069
+Apple,iPhone X,,iOS 14.7.1,18,0.000274069
+Apple,iPhone 7,,iOS 15.4,18,0.000274069
+Apple,iPhone 5s,,iOS 12.5.6,18,0.000274069
+Apple,iPhone 11 Pro,,iOS 15.4.1,18,0.000274069
+Apple,iPhone 12 Pro,,iOS 15.7,18,0.000274069
+Apple,iPad 6th gen,,iOS 15.6,17,0.000258843
+Apple,iPhone 11,,iOS 14.4.2,17,0.000258843
+Apple,iPhone XR,,iOS 15.2,17,0.000258843
+Apple,iPad mini (5th generation),,iOS 15.6,17,0.000258843
+Apple,iPad 5th gen,,iOS 15.6.1,17,0.000258843
+Apple,iPad (9th gen),,iOS 15.4.1,17,0.000258843
+Apple,iPhone 8 Plus,,iOS 15.1,17,0.000258843
+Apple,iPhone 7,,iOS 15.2,17,0.000258843
+Apple,iPhone X,,iOS 15.3.1,17,0.000258843
+Apple,iPhone XS,,iOS 14.8.1,17,0.000258843
+Apple,iPhone 12 mini,,iOS 14.8.1,16,0.000243616
+Apple,iPad (9th gen),,iOS 15.1,16,0.000243616
+Apple,iPad mini (6th generation),,iOS 15.6,16,0.000243616
+Apple,iPad mini (5th generation),,iOS 15.5,16,0.000243616
+Apple,iPhone 11,,iOS 15.7.1,16,0.000243616
+Apple,iPhone 8,,iOS 14.4,16,0.000243616
+Apple,iPhone 6s,,iOS 14.8.1,16,0.000243616
+Apple,iPhone 11 Pro Max,,iOS 15.3.1,15,0.00022839
+Apple,iPhone 13 Pro Max,,iOS 15.0.2,15,0.00022839
+Apple,iPad Air (4th gen),,iOS 15.7,15,0.00022839
+Apple,iPhone XR,,iOS 16.1.1,15,0.00022839
+Apple,iPhone XR,,iOS 15.0.2,15,0.00022839
+Apple,iPhone 6s,,iOS 14.4.2,15,0.00022839
+Apple,iPhone X,,iOS 14.6,15,0.00022839
+Apple,iPhone SE (2nd generation),,iOS 14.8,15,0.00022839
+Apple,iPhone 8,,iOS 14.4.2,15,0.00022839
+Apple,iPhone SE (2nd generation),,iOS 15.2.1,15,0.00022839
+Apple,iPhone 6s Plus,,iOS 14.7.1,14,0.000213164
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 15.6.1,14,0.000213164
+Apple,iPad Mini 2,,iOS 12.5.5,14,0.000213164
+Apple,iPhone 7 Plus,,iOS 14.2,14,0.000213164
+Apple,iPhone 12,,iOS 15.0,14,0.000213164
+Apple,iPhone 8,,iOS 15.4,14,0.000213164
+Apple,iPhone 13,,iOS 15.2.1,14,0.000213164
+Apple,iPhone XS Max,,iOS 14.7.1,14,0.000213164
+Apple,iPhone 11,,iOS 15.3,14,0.000213164
+Apple,iPhone XS,,iOS 15.4.1,14,0.000213164
+Apple,iPhone 13 Pro,,iOS 15.4.1,14,0.000213164
+Apple,iPhone 7 Plus,,iOS 15.2,14,0.000213164
+Apple,iPhone 8 Plus,,iOS 15.4,14,0.000213164
+Apple,iPhone 12 mini,,iOS 15.2.1,14,0.000213164
+Apple,iPhone 11,,iOS 16.2,14,0.000213164
+Apple,iPhone 11 Pro,,iOS 14.7.1,13,0.000197938
+Apple,iPhone 6s,,iOS 14.4,13,0.000197938
+Apple,iPhone,,iOS 14.6,13,0.000197938
+Apple,iPad mini (6th generation),,iOS 15.6.1,13,0.000197938
+Apple,iPhone,,iOS 15.3.1,13,0.000197938
+Apple,iPhone 13 mini,,iOS 15.4.1,13,0.000197938
+Apple,iPhone 11 Pro Max,,iOS 14.8.1,13,0.000197938
+Apple,iPhone 12 mini,,iOS 15.4,13,0.000197938
+Apple,iPhone SE,,iOS 14.7.1,13,0.000197938
+Apple,iPhone SE,,iOS 15.5,13,0.000197938
+Apple,iPhone 11 Pro Max,,iOS 15.7,13,0.000197938
+Apple,iPhone 13 Pro Max,,iOS 15.4,13,0.000197938
+Apple,iPhone XS Max,,iOS 15.7,13,0.000197938
+Apple,iPhone 6s,,iOS 14.8,13,0.000197938
+Apple,iPhone 12,,iOS 14.6,13,0.000197938
+Apple,iPhone 7,,iOS 15.0.2,13,0.000197938
+Apple,iPad Air (3rd gen),,iOS 15.6.1,13,0.000197938
+Apple,iPhone 8 Plus,,iOS 14.6,13,0.000197938
+Apple,iPhone 12,,iOS 14.8,12,0.000182712
+Apple,iPhone 6s,,iOS 15.2.1,12,0.000182712
+Apple,iPhone 7 Plus,,iOS 14.8,12,0.000182712
+Apple,iPhone 11,,iOS 14.4,12,0.000182712
+Apple,iPad Air 2,,iOS 15.6.1,12,0.000182712
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.6,12,0.000182712
+Apple,iPad (8th gen),,iOS 15.4.1,12,0.000182712
+Apple,iPhone 12 Pro,,iOS 14.8.1,12,0.000182712
+Apple,iPhone 8,,iOS 15.2.1,12,0.000182712
+Apple,iPhone 11 Pro,,iOS 15.3.1,12,0.000182712
+Apple,iPhone 7 Plus,,iOS 15.1,12,0.000182712
+Apple,iPhone 6s Plus,,iOS 14.4.2,12,0.000182712
+Apple,iPhone SE (2nd generation),,iOS 15.0,12,0.000182712
+Apple,iPhone 6s,,iOS 15.2,12,0.000182712
+Apple,iPhone XR,,iOS 15.3,12,0.000182712
+Apple,iPhone XR,,iOS 14.4,12,0.000182712
+Apple,iPhone 11 Pro Max,,iOS 14.7.1,12,0.000182712
+Apple,iPod touch (7th generation),,iOS 14.7.1,12,0.000182712
+Apple,iPhone 6s Plus,,iOS 14.8.1,11,0.000167486
+Apple,iPhone XS,,iOS 14.0,11,0.000167486
+Apple,iPhone 7 Plus,,iOS 15.4,11,0.000167486
+Apple,iPhone SE (2nd generation),,iOS 14.3,11,0.000167486
+Apple,iPhone XS,,iOS 15.1,11,0.000167486
+Apple,iPhone SE (2nd generation),,iOS 15.0.2,11,0.000167486
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.6.1,11,0.000167486
+Apple,iPhone 13,,iOS 15.1,11,0.000167486
+Apple,iPhone 11 Pro,,iOS 14.8.1,10,0.00015226
+Apple,iPhone 6s,,iOS 15.1,10,0.00015226
+Apple,iPhone 11 Pro Max,,iOS 14.4.2,10,0.00015226
+Apple,iPhone 12 Pro,,iOS 14.7.1,10,0.00015226
+Apple,iPad (9th gen),,iOS 15.3.1,10,0.00015226
+Apple,iPhone 6s,,iOS 14.3,10,0.00015226
+Apple,iPhone 7 Plus,,iOS 14.4.2,10,0.00015226
+Apple,iPhone,,iOS 16.1.1,10,0.00015226
+Apple,iPhone SE (2nd generation),,iOS 14.5.1,10,0.00015226
+Apple,iPhone XS Max,,iOS 15.3.1,10,0.00015226
+Apple,iPhone XR,,iOS 15.0,10,0.00015226
+Apple,iPhone SE (2nd generation),,iOS 14.4,10,0.00015226
+Apple,iPad (7th gen),,iOS 14.7.1,10,0.00015226
+Apple,iPhone 8,,iOS 14.2,10,0.00015226
+Apple,iPhone SE (2nd generation),,iOS 15.3,10,0.00015226
+Apple,iPhone 11 Pro,,iOS 15.7,10,0.00015226
+Apple,iPhone X,,iOS 15.4,10,0.00015226
+Apple,iPhone 7,,iOS 15.0,10,0.00015226
+Apple,iPad 6th gen,,iOS 14.8.1,10,0.00015226
+Apple,iPhone 8,,iOS 15.2,10,0.00015226
+Apple,iPhone 13,,iOS 16.2,10,0.00015226
+Apple,iPhone,,iOS 14.8.1,10,0.00015226
+Apple,iPhone 13,,iOS 15.3,10,0.00015226
+Apple,iPhone SE (2nd generation),,iOS 14.2,9,0.000137034
+Apple,iPhone 13,,iOS 15.0.2,9,0.000137034
+Apple,iPhone 7,,iOS 15.3,9,0.000137034
+Apple,iPhone 7,,iOS 14.0.1,9,0.000137034
+Apple,iPad Air (4th gen),,iOS 15.4.1,9,0.000137034
+Apple,iPhone SE,,iOS 15.4.1,9,0.000137034
+Apple,iPhone XR,,iOS 14.3,9,0.000137034
+Apple,iPhone,,iOS 14.7.1,9,0.000137034
+Apple,iPad,,iOS 13.3,9,0.000137034
+Apple,iPhone 6s Plus,,iOS 15.7.1,9,0.000137034
+Apple,iPhone 7,,iOS 14.4.1,9,0.000137034
+Apple,iPhone 6s Plus,,iOS 14.6,9,0.000137034
+Apple,iPad (8th gen),,iOS 14.4.2,9,0.000137034
+Apple,iPhone,,iOS 16.2,9,0.000137034
+Apple,iPhone SE (2nd generation),,iOS 15.7.1,9,0.000137034
+Apple,iPhone 8 Plus,,iOS 14.4.2,9,0.000137034
+Apple,iPhone 11,,iOS 14.5.1,9,0.000137034
+Apple,iPad Pro 10.5,,iOS 15.6,9,0.000137034
+Apple,iPad (7th gen),,iOS 14.8.1,9,0.000137034
+Apple,iPhone,,iOS 15.1.1,9,0.000137034
+Apple,iPhone 6s Plus,,iOS 15.3.1,9,0.000137034
+Apple,iPhone 7,,iOS 14.3,9,0.000137034
+Apple,iPad 5th gen,,iOS 15.6,9,0.000137034
+Apple,iPad 6th gen,,iOS 15.4.1,8,0.000121808
+Apple,iPhone 12 mini,,iOS 14.6,8,0.000121808
+Apple,iPhone SE,,iOS 15.3.1,8,0.000121808
+Apple,iPad Air 2,,iOS 15.5,8,0.000121808
+Apple,iPhone XS Max,,iOS 14.8.1,8,0.000121808
+Apple,iPhone 6s Plus,,iOS 14.4,8,0.000121808
+Apple,iPhone X,,iOS 14.8,8,0.000121808
+Apple,iPad mini (6th generation),,iOS 15.5,8,0.000121808
+Apple,iPad Mini 4,,iOS 15.5,8,0.000121808
+Apple,iPhone XR,,iOS 15.7.1,8,0.000121808
+Apple,iPod touch (7th generation),,iOS 15.4.1,8,0.000121808
+Apple,iPad 5th gen,,iOS 14.8.1,8,0.000121808
+Apple,iPhone SE (2nd generation),,iOS 16.1.1,8,0.000121808
+Apple,iPhone 8 Plus,,iOS 15.2,8,0.000121808
+Apple,iPad (8th gen),,iOS 14.8.1,8,0.000121808
+Apple,iPad (7th gen),,iOS 15.4.1,8,0.000121808
+Apple,iPhone 12 mini,,iOS 15.1.1,8,0.000121808
+Apple,iPhone 12 mini,,iOS 15.1,8,0.000121808
+Apple,iPhone 6s,,iOS 14.2,8,0.000121808
+Apple,iPhone XR,,iOS 14.5.1,8,0.000121808
+Apple,iPhone 11 Pro Max,,iOS 15.2,8,0.000121808
+Apple,iPad Mini 4,,iOS 15.6.1,8,0.000121808
+Apple,iPhone 13 Pro,,iOS 15.1.1,8,0.000121808
+Apple,iPad (7th gen),,iOS 14.6,8,0.000121808
+Apple,iPhone 6s,,iOS 13.6,8,0.000121808
+Apple,iPad mini (5th generation),,iOS 15.7,8,0.000121808
+Apple,iPhone X,,iOS 14.2,8,0.000121808
+Apple,iPad (9th gen),,iOS 16.1,8,0.000121808
+Apple,iPad 6th gen,,iOS 15.7,8,0.000121808
+Apple,iPhone 12,,iOS 15.7.1,8,0.000121808
+Apple,iPhone 12 mini,,iOS 15.2,7,0.000106582
+Apple,iPhone SE,,iOS 15.1,7,0.000106582
+Apple,iPhone 12 mini,,iOS 14.2.1,7,0.000106582
+Apple,iPhone XS Max,,iOS 15.2,7,0.000106582
+Apple,iPhone 11,,iOS 15.0.1,7,0.000106582
+Apple,iPhone 7 Plus,,iOS 13.6.1,7,0.000106582
+Apple,iPhone X,,iOS 15.2.1,7,0.000106582
+Apple,iPhone 13 Pro Max,,iOS 15.3,7,0.000106582
+Apple,iPhone 7,,iOS 14.5,7,0.000106582
+Apple,iPhone 6s,,iOS 13.5.1,7,0.000106582
+Apple,iPhone XS,,iOS 14.6,7,0.000106582
+Apple,iPad Pro 10.5,,iOS 15.6.1,7,0.000106582
+Apple,iPhone 13 mini,,iOS 15.3.1,7,0.000106582
+Apple,iPad (9th gen),,iOS 15.0,7,0.000106582
+Apple,iPhone 6s,,iOS 13.3.1,7,0.000106582
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.5,7,0.000106582
+Apple,iPhone 8 Plus,,iOS 14.2,7,0.000106582
+Apple,iPad (7th gen),,iOS 15.7,7,0.000106582
+Apple,iPhone SE (2nd generation),,iOS 15.0.1,7,0.000106582
+Apple,iPad 5th gen,,iOS 15.7,7,0.000106582
+Apple,iPhone 12,,iOS 14.1,7,0.000106582
+Apple,iPhone SE,,iOS 15.6,7,0.000106582
+Apple,iPhone,,iOS 14.4.2,7,0.000106582
+Apple,iPhone SE (2nd generation),,iOS 14.4.1,7,0.000106582
+Apple,iPhone 8,,iOS 14.3,7,0.000106582
+Apple,iPhone 11 Pro,,iOS 15.1,7,0.000106582
+Apple,iPad 5th gen,,iOS 15.5,7,0.000106582
+Apple,iPhone 8 Plus,,iOS 15.0.2,7,0.000106582
+Apple,iPhone,,iOS 15.2,7,0.000106582
+Apple,iPhone 7,,iOS 13.6.1,7,0.000106582
+Apple,iPhone 12,,iOS 16.2,7,0.000106582
+Apple,iPhone XS,,iOS 15.3.1,7,0.000106582
+Apple,iPhone 12,,iOS 16.1.1,7,0.000106582
+Apple,iPhone XR,,iOS 16.2,7,0.000106582
+Apple,iPhone 13 Pro,,iOS 16.2,7,0.000106582
+Apple,iPhone 8 Plus,,iOS 15.2.1,7,0.000106582
+Apple,iPhone 7,,iOS 14.1,7,0.000106582
+Apple,iPod touch (7th generation),,iOS 14.6,7,0.000106582
+Apple,iPhone 12,,iOS 15.0.2,7,0.000106582
+Apple,iPhone 8 Plus,,iOS 14.4,7,0.000106582
+Apple,iPhone 13,,iOS 16.1.1,7,0.000106582
+Apple,iPhone 8,,iOS 15.7.1,7,0.000106582
+Apple,iPhone 12,,iOS 15.3,6,9.14E-05
+Apple,iPad Air (4th gen),,iOS 15.3.1,6,9.14E-05
+Apple,iPad mini (5th generation),,iOS 14.7.1,6,9.14E-05
+Apple,iPhone 11 Pro Max,,iOS 14.4,6,9.14E-05
+Apple,iPhone 11 Pro,,iOS 14.6,6,9.14E-05
+Apple,iPhone 6s,,iOS 14.5.1,6,9.14E-05
+Apple,iPhone 8,,iOS 15.3,6,9.14E-05
+Apple,iPhone XS Max,,iOS 14.4.2,6,9.14E-05
+Apple,iPhone,,iOS 15.3,6,9.14E-05
+Apple,iPhone 11,,iOS 14.2,6,9.14E-05
+Apple,iPhone 11 Pro Max,,iOS 15.1,6,9.14E-05
+Apple,iPhone XR,,iOS 14.7,6,9.14E-05
+Apple,iPad Air,,iOS 12.5.6,6,9.14E-05
+Apple,iPhone 13 mini,,iOS 15.1.1,6,9.14E-05
+Apple,iPhone 6s,,iOS 15.4,6,9.14E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.6,6,9.14E-05
+Apple,iPhone XS,,iOS 14.7.1,6,9.14E-05
+Apple,iPhone 8,,iOS 15.0.1,6,9.14E-05
+Apple,iPhone X,,iOS 15.3,6,9.14E-05
+Apple,iPhone X,,iOS 16.1.1,6,9.14E-05
+Apple,iPhone 6s,,iOS 15.0.2,6,9.14E-05
+Apple,iPad mini (5th generation),,iOS 15.4.1,6,9.14E-05
+Apple,iPhone 12 Pro,,iOS 16.2,6,9.14E-05
+Apple,iPod touch (7th generation),,iOS 15.7.1,6,9.14E-05
+Apple,iPhone XS Max,,iOS 14.6,6,9.14E-05
+Apple,iPad (8th gen),,iOS 14.5.1,6,9.14E-05
+Apple,iPhone X,,iOS 14.4.2,6,9.14E-05
+Apple,iPhone X,,iOS 15.2,6,9.14E-05
+Apple,iPad 6th gen,,iOS 14.7.1,6,9.14E-05
+Apple,iPhone 13 Pro Max,,iOS 16.1.1,6,9.14E-05
+Apple,iPhone 6,,iOS 12.5.4,6,9.14E-05
+Apple,iPad Mini 2,,iOS 12.5.6,6,9.14E-05
+Apple,iPhone 8 Plus,,iOS 14.8,6,9.14E-05
+Apple,iPhone 13 Pro Max,,iOS 16.2,6,9.14E-05
+Apple,iPhone 13 mini,,iOS 15.2.1,6,9.14E-05
+Apple,iPhone 8,,iOS 15.0,6,9.14E-05
+Apple,iPad (9th gen),,iOS 15.2,6,9.14E-05
+Apple,iPhone 13 Pro Max,,iOS 15.1,6,9.14E-05
+Apple,iPad Air (3rd gen),,iOS 15.5,6,9.14E-05
+Apple,iPhone 8,,iOS 16.1.1,6,9.14E-05
+Apple,iPhone 6s Plus,,iOS 14.3,6,9.14E-05
+Apple,iPhone 6s,,iOS 14.0.1,6,9.14E-05
+Apple,iPhone 6s,,iOS 13.7,6,9.14E-05
+Apple,iPad Air (3rd gen),,iOS 14.6,5,7.61E-05
+Apple,iPad Air (4th gen),,iOS 14.6,5,7.61E-05
+Apple,iPhone 7 Plus,,iOS 15.0.1,5,7.61E-05
+Apple,iPhone X,,iOS 15.0.2,5,7.61E-05
+Apple,iPad 6th gen,,iOS 15.1,5,7.61E-05
+Apple,iPhone 13 Pro,,iOS 15.4,5,7.61E-05
+Apple,iPad (8th gen),,iOS 16.1,5,7.61E-05
+Apple,iPhone 13 Pro Max,,iOS 15.1.1,5,7.61E-05
+Apple,iPhone XR,,iOS 14.4.1,5,7.61E-05
+Apple,iPhone 13,,iOS 15.7.1,5,7.61E-05
+Apple,iPad Air 2,,iOS 15.4.1,5,7.61E-05
+Apple,iPad mini (6th generation),,iOS 15.4.1,5,7.61E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.5,5,7.61E-05
+Apple,iPhone X,,iOS 15.7.1,5,7.61E-05
+Apple,iPhone 13,,iOS 15.0,5,7.61E-05
+Apple,iPhone SE (2nd generation),,iOS 16.2,5,7.61E-05
+Apple,iPhone 8,,iOS 14.4.1,5,7.61E-05
+Apple,iPhone 13 mini,,iOS 15.2,5,7.61E-05
+Apple,iPhone 6s,,iOS 12.2,5,7.61E-05
+Apple,iPad (8th gen),,iOS 14.8,5,7.61E-05
+Apple,iPhone 6s Plus,,iOS 15.4,5,7.61E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.7,5,7.61E-05
+Apple,iPhone 11,,iOS 14.0.1,5,7.61E-05
+Apple,iPhone 11,,iOS 14.4.1,5,7.61E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.6.1,5,7.61E-05
+Apple,iPhone 7,,iOS 13.6,5,7.61E-05
+Apple,iPhone 8 Plus,,iOS 15.7.1,5,7.61E-05
+Apple,iPhone 8,,iOS 15.0.2,5,7.61E-05
+Apple,iPhone 6s,,iOS 14.4.1,5,7.61E-05
+Apple,iPhone 12,,iOS 14.4.2,5,7.61E-05
+Apple,iPhone,,iOS 14.3,5,7.61E-05
+Apple,iPad (7th gen),,iOS 14.4.2,5,7.61E-05
+Apple,iPhone 11 Pro Max,,iOS 14.8,5,7.61E-05
+Apple,iPhone 7 Plus,,iOS 14.4,5,7.61E-05
+Apple,iPhone XS Max,,iOS 15.1,5,7.61E-05
+Apple,iPhone 13 Pro Max,,iOS 15.3.1,5,7.61E-05
+Apple,iPhone SE (2nd generation),,iOS 14.0.1,5,7.61E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.5,5,7.61E-05
+Apple,iPad mini (6th generation),,iOS 15.7,5,7.61E-05
+Apple,iPad (8th gen),,iOS 15.1,5,7.61E-05
+Apple,iPhone XS Max,,iOS 15.7.1,5,7.61E-05
+Apple,iPhone SE,,iOS 14.6,5,7.61E-05
+Apple,iPod touch (7th generation),,iOS 14.8.1,5,7.61E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.6,5,7.61E-05
+Apple,iPhone 7,,iOS 14.5.1,5,7.61E-05
+Apple,iPhone XS Max,,iOS 15.4,5,7.61E-05
+Apple,iPad 6th gen,,iOS 14.6,5,7.61E-05
+Apple,iPhone 7,,iOS 14.7,5,7.61E-05
+Apple,iPhone XS Max,,iOS 15.2.1,5,7.61E-05
+Apple,iPad Air (4th gen),,iOS 16.1,5,7.61E-05
+Apple,iPad Air 2,,iOS 15.6,5,7.61E-05
+Apple,iPhone XR,,iOS 14.0.1,5,7.61E-05
+Apple,iPhone,,iOS 15.2.1,4,6.09E-05
+Apple,iPhone 13 Pro Max,,iOS 15.2.1,4,6.09E-05
+Apple,iPad Air (3rd gen),,iOS 15.6,4,6.09E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.4.1,4,6.09E-05
+Apple,iPhone XS,,iOS 14.4.2,4,6.09E-05
+Apple,iPhone 12 Pro,,iOS 15.4,4,6.09E-05
+Apple,iPhone 7,,iOS 13.5.1,4,6.09E-05
+Apple,iPhone 13 Pro,,iOS 15.3.1,4,6.09E-05
+Apple,iPad (7th gen),,iOS 15.1,4,6.09E-05
+Apple,iPhone 12,,iOS 14.2.1,4,6.09E-05
+Apple,iPhone 12 Pro,,iOS 15.1.1,4,6.09E-05
+Apple,iPad Air (3rd gen),,iOS 14.8,4,6.09E-05
+Apple,iPhone XS Max,,iOS 14.8,4,6.09E-05
+Apple,iPhone XS,,iOS 15.2.1,4,6.09E-05
+Apple,iPhone 11 Pro Max,,iOS 14.6,4,6.09E-05
+Apple,iPhone,,iOS 14.8,4,6.09E-05
+Apple,iPhone 8 Plus,,iOS 13.4.1,4,6.09E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 15.6,4,6.09E-05
+Apple,iPhone 7 Plus,,iOS 14.1,4,6.09E-05
+Apple,iPad (7th gen),,iOS 16.1,4,6.09E-05
+Apple,iPhone 13 mini,,iOS 16.1.1,4,6.09E-05
+Apple,iPhone 6s,,iOS 13.3,4,6.09E-05
+Apple,iPad Pro (11-inch),,iOS 15.6,4,6.09E-05
+Apple,iPhone 7 Plus,,iOS 15.0.2,4,6.09E-05
+Apple,iPhone 6s Plus,,iOS 13.7,4,6.09E-05
+Apple,iPhone XR,,iOS 15.0.1,4,6.09E-05
+Apple,iPhone XS Max,,iOS 15.0.2,4,6.09E-05
+Apple,iPhone 13 Pro Max,,iOS 15.2,4,6.09E-05
+Apple,iPhone,,iOS 15.1,4,6.09E-05
+Apple,iPhone XR,,iOS 14.1,4,6.09E-05
+Apple,iPhone 11 Pro Max,,iOS 14.2,4,6.09E-05
+Apple,iPhone 11 Pro,,iOS 15.2,4,6.09E-05
+Apple,iPhone 6s,,iOS 14.1,4,6.09E-05
+Apple,iPad 6th gen,,iOS 14.4.2,4,6.09E-05
+Apple,iPhone 12 Pro,,iOS 15.0.2,4,6.09E-05
+Apple,iPhone,,iOS 15.0.2,4,6.09E-05
+Apple,iPad Air 2,,iOS 15.3.1,4,6.09E-05
+Apple,iPhone 11 Pro Max,,iOS 15.3,4,6.09E-05
+Apple,iPhone 12 Pro,,iOS 16.1.1,4,6.09E-05
+Apple,iPhone,,iOS 15.7.1,4,6.09E-05
+Apple,iPad (9th gen),,iOS 15.4,4,6.09E-05
+Apple,iPhone X,,iOS 14.4,4,6.09E-05
+Apple,iPhone 11 Pro Max,,iOS 16.1.1,4,6.09E-05
+Apple,iPhone XS,,iOS 14.8,4,6.09E-05
+Apple,iPhone 12 Pro,,iOS 15.7.1,4,6.09E-05
+Apple,iPhone 7 Plus,,iOS 13.3.1,4,6.09E-05
+Apple,iPhone 11,,iOS 14.3,4,6.09E-05
+Apple,iPhone XR,,iOS 13.7,4,6.09E-05
+Apple,iPad 5th gen,,iOS 16.1,4,6.09E-05
+Apple,iPhone 12 Pro,,iOS 14.4.2,4,6.09E-05
+Apple,iPhone 12 Pro,,iOS 15.3.1,4,6.09E-05
+Apple,iPhone 12 mini,,iOS 15.0,4,6.09E-05
+Apple,iPhone 8 Plus,,iOS 14.3,4,6.09E-05
+Apple,iPad 6th gen,,iOS 16.1,4,6.09E-05
+Apple,iPhone 6s Plus,,iOS 14.4.1,4,6.09E-05
+Apple,iPad Pro 10.5,,iOS 15.5,4,6.09E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 15.5,4,6.09E-05
+Apple,iPad (7th gen),,iOS 14.8,4,6.09E-05
+Apple,iPhone 13 mini,,iOS 15.1,4,6.09E-05
+Apple,iPhone 13 Pro Max,,iOS 15.7.1,4,6.09E-05
+Apple,iPhone 13 Pro,,iOS 16.1.1,4,6.09E-05
+Apple,iPhone 12 mini,,iOS 16.2,4,6.09E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 14.8.1,4,6.09E-05
+Apple,iPad Air (4th gen),,iOS 15.1,4,6.09E-05
+Apple,iPhone 12,,iOS 14.5.1,4,6.09E-05
+Apple,iPad Air (3rd gen),,iOS 15.7,4,6.09E-05
+Apple,iPhone 7,,iOS 13.7,4,6.09E-05
+Apple,iPhone 6s,,iOS 12.3.1,4,6.09E-05
+Apple,iPhone 8 Plus,,iOS 14.4.1,4,6.09E-05
+Apple,iPad Pro (11-inch),,iOS 15.6.1,4,6.09E-05
+Apple,iPhone XS Max,,iOS 14.5.1,4,6.09E-05
+Apple,iPhone 8,,iOS 14.7,4,6.09E-05
+Apple,iPhone 12 mini,,iOS 16.1.1,4,6.09E-05
+Apple,iPad mini (6th generation),,iOS 15.1,4,6.09E-05
+Apple,iPad 5th gen,,iOS 14.7.1,4,6.09E-05
+Apple,iPad mini (5th generation),,iOS 14.4.2,3,4.57E-05
+Apple,iPhone,,iOS 14.4,3,4.57E-05
+Apple,iPhone 6s,,iOS 13.4.1,3,4.57E-05
+Apple,iPhone 6s Plus,,iOS 13.6,3,4.57E-05
+Apple,iPhone 7 Plus,,iOS 14.3,3,4.57E-05
+Apple,iPhone 11,,iOS 14.7,3,4.57E-05
+Apple,iPhone 7 Plus,,iOS 15.0,3,4.57E-05
+Apple,iPad Air (4th gen),,iOS 15.2,3,4.57E-05
+Apple,iPad Mini 3,,iOS 12.5.5,3,4.57E-05
+Apple,iPad Air (4th gen),,iOS 14.7.1,3,4.57E-05
+Apple,iPhone X,,iOS 14.3,3,4.57E-05
+Apple,iPhone SE,,iOS 14.4,3,4.57E-05
+Apple,iPhone 6s Plus,,iOS 15.0,3,4.57E-05
+Apple,iPhone 8 Plus,,iOS 15.0.1,3,4.57E-05
+Apple,iPhone SE,,iOS 15.2.1,3,4.57E-05
+Apple,iPad 5th gen,,iOS 13.6,3,4.57E-05
+Apple,iPad Air (4th gen),,iOS 14.8,3,4.57E-05
+Apple,iPhone 6s Plus,,iOS 12.2,3,4.57E-05
+Apple,iPad Mini 3,,iOS 12.5.6,3,4.57E-05
+Apple,iPad mini (5th generation),,iOS 15.2.1,3,4.57E-05
+Apple,iPhone 8,,iOS 14.5.1,3,4.57E-05
+Apple,iPad 6th gen,,iOS 13.1.2,3,4.57E-05
+Apple,iPhone XS,,iOS 16.1.1,3,4.57E-05
+Apple,iPhone 11 Pro Max,,iOS 15.7.1,3,4.57E-05
+Apple,iPhone 6s,,iOS 12.4.1,3,4.57E-05
+Apple,iPhone 12 mini,,iOS 14.1,3,4.57E-05
+Apple,iPad mini (5th generation),,iOS 16.1,3,4.57E-05
+Apple,iPhone 11,,iOS 13.3.1,3,4.57E-05
+Apple,iPhone X,,iOS 14.5.1,3,4.57E-05
+Apple,iPad (8th gen),,iOS 15.4,3,4.57E-05
+Apple,iPad mini (6th generation),,iOS 16.1,3,4.57E-05
+Apple,iPhone XS Max,,iOS 15.0,3,4.57E-05
+Apple,iPhone 11,,iOS 14.1,3,4.57E-05
+Apple,iPhone 6s Plus,,iOS 15.1,3,4.57E-05
+Apple,iPhone 13 Pro,,iOS 15.0,3,4.57E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 14.6,3,4.57E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.5,3,4.57E-05
+Apple,iPhone 12 Pro,,iOS 15.2.1,3,4.57E-05
+Apple,iPad Pro 10.5,,iOS 15.4.1,3,4.57E-05
+Apple,iPad Mini 4,,iOS 14.8.1,3,4.57E-05
+Apple,iPhone 12 Pro,,iOS 14.6,3,4.57E-05
+Apple,iPad Air 2,,iOS 14.4.2,3,4.57E-05
+Apple,iPhone 7 Plus,,iOS 13.1.2,3,4.57E-05
+Apple,iPhone 7,,iOS 14.0,3,4.57E-05
+Apple,iPhone XS Max,,iOS 14.2,3,4.57E-05
+Apple,iPhone 7 Plus,,iOS 13.5.1,3,4.57E-05
+Apple,iPhone 8,,iOS 14.1,3,4.57E-05
+Apple,iPad (9th gen),,iOS 15.2.1,3,4.57E-05
+Apple,iPhone 13 Pro Max,,iOS 15.0.1,3,4.57E-05
+Apple,iPhone 6,,iOS 12.4.8,3,4.57E-05
+Apple,iPhone 6s Plus,,iOS 12.4.1,3,4.57E-05
+Apple,iPhone SE,,iOS 15.4,3,4.57E-05
+Apple,iPhone XS,,iOS 14.2,3,4.57E-05
+Apple,iPhone XR,,iOS 13.5.1,3,4.57E-05
+Apple,iPhone 7,,iOS 13.3,3,4.57E-05
+Apple,iPhone 6s Plus,,iOS 15.0.2,3,4.57E-05
+Apple,iPhone 13 mini,,iOS 16.2,3,4.57E-05
+Apple,iPad (7th gen),,iOS 15.3.1,3,4.57E-05
+Apple,iPhone 12 Pro,,iOS 14.4,3,4.57E-05
+Apple,iPhone 6s Plus,,iOS 14.0.1,3,4.57E-05
+Apple,iPhone,,iOS 14.5.1,3,4.57E-05
+Apple,iPhone 6,,iOS 12.5.2,3,4.57E-05
+Apple,iPhone SE,,iOS 14.1,3,4.57E-05
+Apple,iPhone 6s,,iOS 14.0,3,4.57E-05
+Apple,iPhone 11 Pro Max,,iOS 15.0.2,3,4.57E-05
+Apple,iPad 5th gen,,iOS 14.6,3,4.57E-05
+Apple,iPhone SE,,iOS 13.3.1,3,4.57E-05
+Apple,iPad (8th gen),,iOS 14.4,3,4.57E-05
+Apple,iPhone 11 Pro Max,,iOS 14.5.1,3,4.57E-05
+Apple,iPad Air (4th gen),,iOS 15.4,3,4.57E-05
+Apple,iPhone X,,iOS 14.1,3,4.57E-05
+Apple,iPhone 6s Plus,,iOS 13.3.1,3,4.57E-05
+Apple,iPhone 6s,,iOS 15.0.1,3,4.57E-05
+Apple,iPhone 13 mini,,iOS 15.0,3,4.57E-05
+Apple,iPad Air (4th gen),,iOS 14.4.2,3,4.57E-05
+Apple,iPod touch (7th generation),,iOS 15.3.1,3,4.57E-05
+Apple,iPod touch (7th generation),,iOS 15.1,3,4.57E-05
+Apple,iPhone 6,,iOS 12.5.3,3,4.57E-05
+Apple,iPhone XR,,iOS 14.5,3,4.57E-05
+Apple,iPhone 12 Pro,,iOS 15.2,3,4.57E-05
+Apple,iPhone XS,,iOS 15.2,3,4.57E-05
+Apple,iPad Air 2,,iOS 15.7,3,4.57E-05
+Apple,iPad mini (6th generation),,iOS 15.3.1,3,4.57E-05
+Apple,iPad (8th gen),,iOS 15.3.1,3,4.57E-05
+Apple,iPhone 12,,iOS 14.5,3,4.57E-05
+Apple,iPhone 6s,,iOS 13.1.2,3,4.57E-05
+Apple,iPhone SE,,iOS 14.8.1,3,4.57E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 15.5,3,4.57E-05
+Apple,iPhone 11 Pro,,iOS 14.8,3,4.57E-05
+Apple,iPad Pro 12.9 inch,,iOS 15.6.1,3,4.57E-05
+Apple,iPod touch (7th generation),,iOS 15.0,3,4.57E-05
+Apple,iPhone XS Max,,iOS 14.1,3,4.57E-05
+Apple,iPhone 6s,,iOS 15.3,3,4.57E-05
+Apple,iPhone XR,,iOS 13.3.1,3,4.57E-05
+Apple,iPhone 8,,iOS 13.3,3,4.57E-05
+Apple,iPhone 8 Plus,,iOS 14.0.1,3,4.57E-05
+Apple,iPad mini (5th generation),,iOS 14.8.1,3,4.57E-05
+Apple,iPhone X,,iOS 14.0.1,3,4.57E-05
+Apple,iPhone 8 Plus,,iOS 13.1.2,3,4.57E-05
+Apple,iPhone 7,,iOS 13.4,3,4.57E-05
+Apple,iPad mini (5th generation),,iOS 14.6,3,4.57E-05
+Apple,iPhone 11,,iOS 13.6.1,3,4.57E-05
+Apple,iPhone XS,,iOS 14.1,2,3.05E-05
+Apple,iPhone XS,,iOS 13.4.1,2,3.05E-05
+Apple,iPhone 7,,iOS 12.2,2,3.05E-05
+Apple,iPad 5th gen,,iOS 15.4,2,3.05E-05
+Apple,iPhone XS,,iOS 13.3.1,2,3.05E-05
+Apple,iPad Air (4th gen),,iOS 14.5.1,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 15.2.1,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.2,2,3.05E-05
+Apple,iPhone 8,,iOS 14.0.1,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 14.0,2,3.05E-05
+Apple,iPhone,,iOS 12.5.6,2,3.05E-05
+Apple,iPad,,iOS 15.5,2,3.05E-05
+Apple,iPhone 6 Plus,,iOS 12.5.2,2,3.05E-05
+Apple,iPad (7th gen),,iOS 16.0,2,3.05E-05
+Apple,iPhone SE (2nd generation),,iOS 14.5,2,3.05E-05
+Apple,iPad 5th gen,,iOS 14.8,2,3.05E-05
+Apple,iPad Pro 10.5,,iOS 14.7.1,2,3.05E-05
+Apple,iPhone,,iOS 14.7,2,3.05E-05
+Apple,iPad Air 2,,iOS 14.5.1,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 16.2,2,3.05E-05
+Apple,iPad Air 2,,iOS 14.3,2,3.05E-05
+Apple,iPhone X,,iOS 13.5.1,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 16.1,2,3.05E-05
+Apple,iPad,,iOS 15.1,2,3.05E-05
+Apple,iPhone XS Max,,iOS 14.4.1,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 14.1,2,3.05E-05
+Apple,iPhone 13 Pro,,iOS 15.3,2,3.05E-05
+Apple,iPhone 13 mini,,iOS 15.4,2,3.05E-05
+Apple,iPad Pro (11-inch),,iOS 16.1,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 14.7,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 14.4.1,2,3.05E-05
+Apple,iPhone 6s Plus,,iOS 14.8,2,3.05E-05
+Apple,iPad,,iOS 13.7,2,3.05E-05
+Apple,iPhone,,iOS 15.0.1,2,3.05E-05
+Apple,iPhone 12 Pro,,iOS 15.3,2,3.05E-05
+Apple,iPhone 11 Pro Max,,iOS 14.1,2,3.05E-05
+Apple,iPad (9th gen),,iOS 15.3,2,3.05E-05
+Apple,iPad 5th gen,,iOS 15.4.1,2,3.05E-05
+Apple,iPad Mini 4,,iOS 15.6,2,3.05E-05
+Apple,iPad (7th gen),,iOS 15.4,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 15.6,2,3.05E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.2,2,3.05E-05
+Apple,iPhone 11 Pro Max,,iOS 15.4,2,3.05E-05
+Apple,iPad,,iOS 15.6.1,2,3.05E-05
+Apple,iPad Air (3rd gen),,iOS 14.7.1,2,3.05E-05
+Apple,iPad 5th gen,,iOS 13.3.1,2,3.05E-05
+Apple,iPhone 12,,iOS 14.3,2,3.05E-05
+Apple,iPad Mini 4,,iOS 14.4,2,3.05E-05
+Apple,iPod touch (7th generation),,iOS 14.4,2,3.05E-05
+Apple,iPad mini (5th generation),,iOS 15.2,2,3.05E-05
+Apple,iPad (8th gen),,iOS 15.2.1,2,3.05E-05
+Apple,iPad Mini 4,,iOS 15.4.1,2,3.05E-05
+Apple,iPad mini (5th generation),,iOS 14.8,2,3.05E-05
+Apple,iPhone 7 Plus,,iOS 12.2,2,3.05E-05
+Apple,iPad (7th gen),,iOS 13.6,2,3.05E-05
+Apple,iPad 6th gen,,iOS 13.1.3,2,3.05E-05
+Apple,iPhone 7,,iOS 13.0,2,3.05E-05
+Apple,iPod,,iOS 12.5.5,2,3.05E-05
+Apple,iPhone 12 Pro,,iOS 14.1,2,3.05E-05
+Apple,iPhone X,,iOS 13.6.1,2,3.05E-05
+Apple,iPhone 7,,iOS 12.4,2,3.05E-05
+Apple,iPhone 11 Pro Max,,iOS 14.3,2,3.05E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 14.7.1,2,3.05E-05
+Apple,iPad Air (4th gen),,iOS 16.1.1,2,3.05E-05
+Apple,iPhone 6s,,iOS 14.5,2,3.05E-05
+Apple,iPad (8th gen),,iOS 14.7,2,3.05E-05
+Apple,iPhone 7 Plus,,iOS 12.3.1,2,3.05E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 15.7,2,3.05E-05
+Apple,iPhone SE,,iOS 13.7,2,3.05E-05
+Apple,iPhone X,,iOS 16.2,2,3.05E-05
+Apple,iPad Mini 2,,iOS 12.5.4,2,3.05E-05
+Apple,iPhone 12 mini,,iOS 14.4.2,2,3.05E-05
+Apple,iPhone 12 mini,,iOS 15.0.2,2,3.05E-05
+Apple,iPhone 8,,iOS 16.2,2,3.05E-05
+Apple,iPhone 6s Plus,,iOS 13.4.1,2,3.05E-05
+Apple,iPhone,,iOS 13.2.3,2,3.05E-05
+Apple,iPhone,,iOS 13.5.1,2,3.05E-05
+Apple,iPhone 8,,iOS 12.2,2,3.05E-05
+Apple,iPhone 12 mini,,iOS 15.3,2,3.05E-05
+Apple,iPhone SE (2nd generation),,iOS 14.7,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 15.4,2,3.05E-05
+Apple,iPad Air 2,,iOS 15.0.2,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 13.5,2,3.05E-05
+Apple,iPhone XS,,iOS 14.5,2,3.05E-05
+Apple,iPhone X,,iOS 13.3.1,2,3.05E-05
+Apple,iPhone XS Max,,iOS 14.5,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 15.6.1,2,3.05E-05
+Apple,iPhone XR,,iOS 14.0,2,3.05E-05
+Apple,iPad Air 2,,iOS 14.8.1,2,3.05E-05
+Apple,iPad Pro (11-inch),,iOS 14.8.1,2,3.05E-05
+Apple,iPad (8th gen),,iOS 15.2,2,3.05E-05
+Apple,iPod touch (7th generation),,iOS 15.2,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 14.7.1,2,3.05E-05
+Apple,iPad,,iOS 15.7,2,3.05E-05
+Apple,iPhone XS,,iOS 14.0.1,2,3.05E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 16.0,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 13.3,2,3.05E-05
+Apple,iPad Pro 9.7 inch,,iOS 14.4,2,3.05E-05
+Apple,iPad Pro 12.9 inch,,iOS 14.4,2,3.05E-05
+Apple,iPhone 7,,iOS 15.0.1,2,3.05E-05
+Apple,iPad mini (5th generation),,iOS 15.0.2,2,3.05E-05
+Apple,iPhone 12 Pro,,iOS 14.3,2,3.05E-05
+Apple,iPhone 13,,iOS 15.0.1,2,3.05E-05
+Apple,iPad (7th gen),,iOS 13.3,2,3.05E-05
+Apple,iPad (7th gen),,iOS 13.4.1,2,3.05E-05
+Apple,iPhone 11,,iOS 13.5.1,2,3.05E-05
+Apple,iPad Air 2,,iOS 14.7.1,2,3.05E-05
+Apple,iPad Pro 10.5,,iOS 14.8,2,3.05E-05
+Apple,iPad Pro 12.9 inch,,iOS 15.6,2,3.05E-05
+Apple,iPad (8th gen),,iOS 16.0,2,3.05E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 16.0,2,3.05E-05
+Apple,iPad Mini 4,,iOS 14.7.1,2,3.05E-05
+Apple,iPhone 6s,,iOS 14.7,2,3.05E-05
+Apple,iPhone 6s Plus,,iOS 14.5.1,2,3.05E-05
+Apple,iPad Air (3rd gen),,iOS 15.4.1,2,3.05E-05
+Apple,iPhone SE,,iOS 15.7.1,2,3.05E-05
+Apple,iPhone,,iOS 14.2.1,2,3.05E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 16.1,2,3.05E-05
+Apple,iPhone 7 Plus,,iOS 14.5.1,2,3.05E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.4,2,3.05E-05
+Apple,iPhone,,iOS 14.2,2,3.05E-05
+Apple,iPad 6th gen,,iOS 12.2,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 16.1.1,2,3.05E-05
+Apple,iPad Air 2,,iOS 13.5.1,2,3.05E-05
+Apple,iPad,,iOS 15.3,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 15.0,2,3.05E-05
+Apple,iPad 6th gen,,iOS 15.4,2,3.05E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.1,2,3.05E-05
+Apple,iPhone SE (2nd generation),,iOS 14.0,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 16.1.1,2,3.05E-05
+Apple,iPhone 7 Plus,,iOS 13.5,2,3.05E-05
+Apple,iPhone XR,,iOS 12.2,2,3.05E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.7,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 15.0,2,3.05E-05
+Apple,iPad 6th gen,,iOS 14.8,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 15.3,2,3.05E-05
+Apple,iPhone 7 Plus,,iOS 13.1.3,2,3.05E-05
+Apple,iPad,,iOS 15.4.1,2,3.05E-05
+Apple,iPhone XS Max,,iOS 13.5.1,2,3.05E-05
+Apple,iPhone XS,,iOS 15.0,2,3.05E-05
+Apple,iPhone XR,,iOS 13.6.1,2,3.05E-05
+Apple,iPhone 13 Pro Max,,iOS 15.0,2,3.05E-05
+Apple,iPad 6th gen,,iOS 15.0,2,3.05E-05
+Apple,iPad Pro 10.5,,iOS 15.3.1,2,3.05E-05
+Apple,iPad (8th gen),,iOS 14.2,2,3.05E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 15.4.1,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 14.1,2,3.05E-05
+Apple,iPhone SE,,iOS 14.2,2,3.05E-05
+Apple,iPad Air (4th gen),,iOS 14.8.1,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 13.6,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 13.3.1,2,3.05E-05
+Apple,iPhone 7,,iOS 13.4.1,2,3.05E-05
+Apple,iPad Mini 4,,iOS 13.7,2,3.05E-05
+Apple,iPhone X,,iOS 14.4.1,2,3.05E-05
+Apple,iPhone,,iOS 15.0,2,3.05E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 14.8,2,3.05E-05
+Apple,iPad Pro 10.5,,iOS 14.8.1,2,3.05E-05
+Apple,iPhone,,iOS 12.4.5,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 16.1,2,3.05E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 15.7,2,3.05E-05
+Apple,iPad Pro (11-inch),,iOS 15.4.1,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 14.8.1,2,3.05E-05
+Apple,iPhone 12 Pro,,iOS 15.1,2,3.05E-05
+Apple,iPhone 13 mini,,iOS 15.0.2,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.3.1,2,3.05E-05
+Apple,iPhone 11,,iOS 14.0,2,3.05E-05
+Apple,iPhone 7 Plus,,iOS 13.3,2,3.05E-05
+Apple,iPod touch (7th generation),,iOS 14.3,2,3.05E-05
+Apple,iPhone 6s Plus,,iOS 12.4,2,3.05E-05
+Apple,iPhone 6s Plus,,iOS 13.1.2,2,3.05E-05
+Apple,iPhone 11 Pro Max,,iOS 14.7,2,3.05E-05
+Apple,iPhone SE,,iOS 15.2,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 14.8,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.7,2,3.05E-05
+Apple,iPhone 12,,iOS 15.0.1,2,3.05E-05
+Apple,iPad (7th gen),,iOS 14.3,2,3.05E-05
+Apple,iPod touch (7th generation),,iOS 14.8,2,3.05E-05
+Apple,iPhone 7 Plus,,iOS 15.3,2,3.05E-05
+Apple,iPhone SE,,iOS 12.3.1,2,3.05E-05
+Apple,iPad mini (5th generation),,iOS 14.0.1,2,3.05E-05
+Apple,iPhone 7 Plus,,iOS 14.5,2,3.05E-05
+Apple,iPhone XS Max,,iOS 15.3,2,3.05E-05
+Apple,iPhone SE (2nd generation),,iOS 13.6.1,2,3.05E-05
+Apple,iPad Mini 4,,iOS 13.3.1,2,3.05E-05
+Apple,iPad Air (3rd gen),,iOS 14.3,2,3.05E-05
+Apple,iPhone 5s,,iOS 12.4.2,2,3.05E-05
+Apple,iPad 5th gen,,iOS 14.3,2,3.05E-05
+Apple,iPad (7th gen),,iOS 13.6.1,2,3.05E-05
+Apple,iPhone 13 mini,,iOS 15.3,2,3.05E-05
+Apple,iPhone XS Max,,iOS 15.0.1,2,3.05E-05
+Apple,iPhone 11 Pro Max,,iOS 14.4.1,2,3.05E-05
+Apple,iPad (8th gen),,iOS 14.4.1,2,3.05E-05
+Apple,iPhone 8,,iOS 13.2.2,2,3.05E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.3.1,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 14.5.1,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.4.1,2,3.05E-05
+Apple,iPhone XS,,iOS 15.3,2,3.05E-05
+Apple,iPad 5th gen,,iOS 14.4,2,3.05E-05
+Apple,iPad (7th gen),,iOS 14.5.1,2,3.05E-05
+Apple,iPhone 11 Pro,,iOS 14.4.2,2,3.05E-05
+Apple,iPhone 11 Pro Max,,iOS 13.3.1,2,3.05E-05
+Apple,iPhone SE,,iOS 13.1.2,2,3.05E-05
+Apple,iPhone X,,iOS 13.1.2,2,3.05E-05
+Apple,iPad,,iOS 15.6,2,3.05E-05
+Apple,iPad Mini 4,,iOS 14.2,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 13.1.3,2,3.05E-05
+Apple,iPhone 8 Plus,,iOS 14.7,2,3.05E-05
+Apple,iPad 6th gen,,iOS 13.6.1,2,3.05E-05
+Apple,iPad mini (5th generation),,iOS 15.1,2,3.05E-05
+Apple,iPhone 6,,iOS 12.4.4,2,3.05E-05
+Apple,iPhone,,iOS 12.5.5,2,3.05E-05
+Apple,iPad Air 2,,iOS 13.3.1,2,3.05E-05
+Apple,iPhone 13 Pro,,iOS 15.0.1,2,3.05E-05
+Apple,iPhone 13 Pro,,iOS 15.1,2,3.05E-05
+Apple,iPhone 8,,iOS 14.0,2,3.05E-05
+Apple,iPhone 11 Pro Max,,iOS 15.0.1,2,3.05E-05
+Apple,iPad (7th gen),,iOS 15.2,2,3.05E-05
+Apple,iPhone XS,,iOS 14.4.1,2,3.05E-05
+Apple,iPhone 12,,iOS 14.2,2,3.05E-05
+Apple,iPhone X,,iOS 15.0,2,3.05E-05
+Apple,iPad 6th gen,,iOS 15.3.1,2,3.05E-05
+Apple,iPhone 11 Pro Max,,iOS 13.6,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.7,2,3.05E-05
+Apple,iPad Pro (11-inch),,iOS 14.6,2,3.05E-05
+Apple,iPad Air (4th gen),,iOS 15.7.1,2,3.05E-05
+Apple,iPad 5th gen,,iOS 14.1,2,3.05E-05
+Apple,iPad mini (6th generation),,iOS 15.2,2,3.05E-05
+Apple,iPhone 11,,iOS 13.4.1,2,3.05E-05
+Apple,iPhone SE (2nd generation),,iOS 13.7,2,3.05E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.0,2,3.05E-05
+Apple,iPhone SE,,iOS 14.7,2,3.05E-05
+Apple,iPhone 6s Plus,,iOS 13.3,2,3.05E-05
+Apple,iPhone 8,,iOS 13.3.1,2,3.05E-05
+Apple,iPhone 6s,,iOS 13.6.1,2,3.05E-05
+Apple,iPad 6th gen,,iOS 14.4,2,3.05E-05
+Apple,iPhone SE (2nd generation),,iOS 13.6,2,3.05E-05
+Apple,iPhone 6s Plus,,iOS 15.2,2,3.05E-05
+Apple,iPad Mini 4,,iOS 15.7,2,3.05E-05
+Apple,iPad mini (5th generation),,iOS 12.2,2,3.05E-05
+Apple,iPhone 7,,iOS 13.2.2,2,3.05E-05
+Apple,iPod touch (7th generation),,iOS 13.4.1,2,3.05E-05
+Apple,iPad Mini 2,,iOS 12.5.2,2,3.05E-05
+Apple,iPhone 6s Plus,,iOS 13.6.1,2,3.05E-05
+Apple,iPhone SE (2nd generation),,iOS 14.1,2,3.05E-05
+Apple,iPhone 6s,,iOS 15.0,2,3.05E-05
+Apple,iPhone 7,,iOS 13.5,2,3.05E-05
+Apple,iPhone 13 Pro,,iOS 15.2.1,2,3.05E-05
+Apple,iPad,,iOS 14.6,2,3.05E-05
+Apple,iPhone SE,,iOS 15.0.1,2,3.05E-05
+Apple,iPhone 12 Pro,,iOS 14.8,2,3.05E-05
+Apple,iPad Air 2,,iOS 15.1,2,3.05E-05
+Apple,iPhone 6,,iOS 12.2,2,3.05E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.1,1,1.52E-05
+Apple,iPhone 11 Pro Max,,iOS 15.2.1,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 14.4.1,1,1.52E-05
+Apple,iPhone 8,,iOS 14.5,1,1.52E-05
+Apple,iPad 5th gen,,iOS 15.3,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 15.2.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 13.4.1,1,1.52E-05
+Apple,iPad (7th gen),,iOS 13.3.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 15.3,1,1.52E-05
+Apple,iPhone SE,,iOS 13.2.3,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 14.4.2,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 14.3,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 14.5.1,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 13.6,1,1.52E-05
+Apple,iPhone 6s,,iOS 13.1.3,1,1.52E-05
+Apple,iPad (7th gen),,iOS 15.0.2,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 15.4,1,1.52E-05
+Apple,iPad Mini 4,,iOS 13.6.1,1,1.52E-05
+Apple,iPad Air 2,,iOS 13.6.1,1,1.52E-05
+Apple,iPhone 7 Plus,,iOS 15.2.1,1,1.52E-05
+Apple,iPhone XS,,iOS 15.0.1,1,1.52E-05
+Apple,iPad Air 2,,iOS 14.1,1,1.52E-05
+Apple,iPad Air,,iOS 12.5.3,1,1.52E-05
+Apple,iPad Mini 4,,iOS 13.5.1,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 13.3,1,1.52E-05
+Apple,iPhone 7,,iOS 12.4.1,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 14.3,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 14.0.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 12.4.1,1,1.52E-05
+Apple,iPhone SE,,iOS 14.4.1,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 15.0.1,1,1.52E-05
+Apple,iPhone 7 Plus,,iOS 13.6,1,1.52E-05
+Apple,iPhone,,iOS 14.5,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 14.7,1,1.52E-05
+Apple,iPad Air 2,,iOS 13.7,1,1.52E-05
+Apple,iPhone 6,,iOS 12.4.7,1,1.52E-05
+Apple,iPod touch 6th gen,,iOS 12.5,1,1.52E-05
+Apple,iPad 5th gen,,iOS 14.0.1,1,1.52E-05
+Apple,iPad Mini 4,,iOS 15.7.1,1,1.52E-05
+Apple,iPhone 6,,iOS 12.4.2,1,1.52E-05
+Apple,iPhone XS Max,,iOS 12.3.1,1,1.52E-05
+Apple,iPad Air 2,,iOS 13.2.3,1,1.52E-05
+Apple,iPad Air,,iOS 12.4.8,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 16.1,1,1.52E-05
+Apple,iPhone 12 mini,,iOS 14.5.1,1,1.52E-05
+Apple,iPhone XS,,iOS 13.6.1,1,1.52E-05
+Apple,iPad (7th gen),,iOS 13.7,1,1.52E-05
+Apple,iPhone 7,,iOS 13.1.3,1,1.52E-05
+Apple,iPad 6th gen,,iOS 12.4,1,1.52E-05
+Apple,iPad Air 2,,iOS 14.4,1,1.52E-05
+Apple,iPad 5th gen,,iOS 15.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 12.3.1,1,1.52E-05
+Apple,iPhone X,,iOS 12.3.1,1,1.52E-05
+Apple,iPhone 6,,iOS 12.4.5,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 15.4,1,1.52E-05
+Apple,iPad 6th gen,,iOS 13.4.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 13.4,1,1.52E-05
+Apple,iPhone,,iOS 14.4.1,1,1.52E-05
+Apple,iPhone 7 Plus,,iOS 13.7,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 15.1,1,1.52E-05
+Apple,iPhone 6 Plus,,iOS 12.4.5,1,1.52E-05
+Apple,iPad 5th gen,,iOS 14.5,1,1.52E-05
+Apple,iPad 5th gen,,iOS 15.0.2,1,1.52E-05
+Apple,iPad Air 2,,iOS 15.2.1,1,1.52E-05
+Apple,iPhone 11,,iOS 13.6,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 14.4.2,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 15.7,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.3.1,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 13.5.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 15.0.1,1,1.52E-05
+Apple,iPhone 7,,iOS 13.2,1,1.52E-05
+Apple,iPad Mini 4,,iOS 14.6,1,1.52E-05
+Apple,iPad (7th gen),,iOS 14.2,1,1.52E-05
+Apple,iPad 6th gen,,iOS 15.2,1,1.52E-05
+Apple,iPad 5th gen,,iOS 15.2,1,1.52E-05
+Apple,iPad Air 2,,iOS 15.0.1,1,1.52E-05
+Apple,iPad (7th gen),,iOS 13.5.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 13.5.1,1,1.52E-05
+Apple,iPad (8th gen),,iOS 14.0,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 15.4,1,1.52E-05
+Apple,iPad Air 2,,iOS 14.2,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 15.7,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 13.3.1,1,1.52E-05
+Apple,iPad Mini 4,,iOS 15.4,1,1.52E-05
+Apple,iPhone 8,,iOS 13.5.1,1,1.52E-05
+Apple,iPhone 12 mini,,iOS 14.8,1,1.52E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 14.7.1,1,1.52E-05
+Apple,iPad (9th gen),,iOS 16.0,1,1.52E-05
+Apple,iPad (7th gen),,iOS 14.7,1,1.52E-05
+Apple,iPod touch 6th gen,,iOS 12.4.8,1,1.52E-05
+Apple,iPhone 6 Plus,,iOS 12.5.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 14.8.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 12.3.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.2.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 14.3,1,1.52E-05
+Apple,iPad (7th gen),,iOS 15.0.1,1,1.52E-05
+Apple,iPhone SE,,iOS 13.6,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 14.1,1,1.52E-05
+Apple,iPad (7th gen),,iOS 13.4,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 15.0,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 14.7.1,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 14.8,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.4,1,1.52E-05
+Apple,iPhone 8,,iOS 13.7,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.3.1,1,1.52E-05
+Apple,iPhone XR,,iOS 13.1.3,1,1.52E-05
+Apple,iPad Air 2,,iOS 12.4,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 13.5.1,1,1.52E-05
+Apple,iPhone SE,,iOS 13.1.3,1,1.52E-05
+Apple,iPhone X,,iOS 13.1.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 13.3,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 14.2,1,1.52E-05
+Apple,iPhone 6s Plus,,iOS 14.0,1,1.52E-05
+Apple,iPad 5th gen,,iOS 14.4.1,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 13.7,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 14.4,1,1.52E-05
+Apple,iPad Mini 4,,iOS 14.5.1,1,1.52E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.2.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 15.3.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 13.1.3,1,1.52E-05
+Apple,iPad (9th gen),,iOS 15.0.2,1,1.52E-05
+Apple,iPod touch 6th gen,,iOS 12.5.4,1,1.52E-05
+Apple,iPad (7th gen),,iOS 13.1,1,1.52E-05
+Apple,iPhone XR,,iOS 13.6,1,1.52E-05
+Apple,iPad 5th gen,,iOS 14.2,1,1.52E-05
+Apple,iPad (7th gen),,iOS 15.3,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 15.3,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 14.8.1,1,1.52E-05
+Apple,iPhone 12 Pro,,iOS 14.2.1,1,1.52E-05
+Apple,iPhone 8 Plus,,iOS 13.6.1,1,1.52E-05
+Apple,iPhone 7 Plus,,iOS 13.4,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 14.4.2,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 14.2,1,1.52E-05
+Apple,iPhone 7 Plus,,iOS 14.0,1,1.52E-05
+Apple,iPhone 6s Plus,,iOS 14.2,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 15.7.1,1,1.52E-05
+Apple,iPhone 11 Pro,,iOS 15.0.1,1,1.52E-05
+Apple,iPad Air 2,,iOS 15.3,1,1.52E-05
+Apple,iPad Mini 3,,iOS 12.5,1,1.52E-05
+Apple,iPhone,,iOS 14.1,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 14.4,1,1.52E-05
+Apple,iPhone 6,,iOS 12.4.3,1,1.52E-05
+Apple,iPhone 6s Plus,,iOS 13.5.1,1,1.52E-05
+Apple,iPad Air 2,,iOS 15.2,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.6,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 14.0.1,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 14.8.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 13.7,1,1.52E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.2,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 14.3,1,1.52E-05
+Apple,iPhone 12 mini,,iOS 14.2,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 15.2.1,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 15.6.1,1,1.52E-05
+Apple,iPhone 8 Plus,,iOS 12.4,1,1.52E-05
+Apple,iPad Mini 4,,iOS 15.2.1,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 13.3,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 14.5,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 14.2,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 15.3,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 13.3.1,1,1.52E-05
+Apple,iPad Air 2,,iOS 15.0,1,1.52E-05
+Apple,iPad Air 2,,iOS 12.2,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 16.0,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.1,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 15.4.1,1,1.52E-05
+Apple,iPhone SE (2nd generation),,iOS 13.4.1,1,1.52E-05
+Apple,iPad Air,,iOS 12.5.4,1,1.52E-05
+Apple,iPad Air 2,,iOS 14.4.1,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 14.1,1,1.52E-05
+Apple,iPhone 6s Plus,,iOS 13.1.3,1,1.52E-05
+Apple,iPhone 6s,,iOS 13.2.3,1,1.52E-05
+Apple,iPad 5th gen,,iOS 15.0.1,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 14.0.1,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 14.2,1,1.52E-05
+Apple,iPhone SE,,iOS 14.4.2,1,1.52E-05
+Apple,iPhone SE,,iOS 14.0,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 14.7.1,1,1.52E-05
+Apple,iPhone 8,,iOS 13.6,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 15.1,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 14.4,1,1.52E-05
+Apple,iPad 5th gen,,iOS 14.7,1,1.52E-05
+Apple,iPad mini (6th generation),,iOS 15.3,1,1.52E-05
+Apple,iPad (8th gen),,iOS 15.3,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 15.0.2,1,1.52E-05
+Apple,iPad 5th gen,,iOS 15.2.1,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 14.5.1,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 14.7.1,1,1.52E-05
+Apple,iPhone 12 mini,,iOS 14.3,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 14.5.1,1,1.52E-05
+Apple,iPhone SE,,iOS 12.2,1,1.52E-05
+Apple,iPad mini (6th generation),,iOS 15.0,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 14.4.2,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 15.6,1,1.52E-05
+Apple,iPad 6th gen,,iOS 14.4.1,1,1.52E-05
+Apple,iPad Air,,iOS 12.4,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 13.7,1,1.52E-05
+Apple,iPad (7th gen),,iOS 15.2.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 14.2,1,1.52E-05
+Apple,iPhone 8,,iOS 13.1.3,1,1.52E-05
+Apple,iPad 6th gen,,iOS 13.7,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 14.4,1,1.52E-05
+Apple,iPad mini (6th generation),,iOS 15.4,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 15.3.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.0.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.1,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.4,1,1.52E-05
+Apple,iPad Mini 4,,iOS 13.1.3,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 14.1,1,1.52E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 14.5.1,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 15.3.1,1,1.52E-05
+Apple,iPhone SE,,iOS 13.6.1,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 14.6,1,1.52E-05
+Apple,iPhone X,,iOS 13.1,1,1.52E-05
+Apple,iPhone SE,,iOS 14.8,1,1.52E-05
+Apple,iPhone 13 Pro,,iOS 15.0.2,1,1.52E-05
+Apple,iPhone SE,,iOS 15.3,1,1.52E-05
+Apple,iPad Mini 2,,iOS 12.5.1,1,1.52E-05
+Apple,iPhone XS,,iOS 15.7.1,1,1.52E-05
+Apple,iPhone 11 Pro Max,,iOS 13.7,1,1.52E-05
+Apple,iPhone XS Max,,iOS 16.1.1,1,1.52E-05
+Apple,iPhone 12,,iOS 14.7,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 15.2.1,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 13.7,1,1.52E-05
+Apple,iPad 5th gen,,iOS 12.4.1,1,1.52E-05
+Apple,iPhone XS Max,,iOS 14.4,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 15.2,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 14.8,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 15.0.1,1,1.52E-05
+Apple,iPhone XR,,iOS 12.4,1,1.52E-05
+Apple,iPhone 11 Pro Max,,iOS 15.0,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 13.7,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.3,1,1.52E-05
+Apple,iPad Air 2,,iOS 13.3,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 13.5.1,1,1.52E-05
+Apple,iPad (8th gen),,iOS 15.0,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 14.3,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 15.5,1,1.52E-05
+Apple,iPad Air 2,,iOS 14.6,1,1.52E-05
+Apple,iPad Air 2,,iOS 14.8,1,1.52E-05
+Apple,iPad Mini 4,,iOS 14.4.2,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 15.3.1,1,1.52E-05
+Apple,iPad Mini 2,,iOS 12.5.3,1,1.52E-05
+Apple,iPhone XR,,iOS 13.3,1,1.52E-05
+Apple,iPad (8th gen),,iOS 14.3,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 15.0.2,1,1.52E-05
+Apple,iPhone SE (2nd generation),,iOS 13.5.1,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 15.4.1,1,1.52E-05
+Apple,iPhone 8 Plus,,iOS 12.2,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 14.5.1,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 13.6.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 13.5.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 15.0.2,1,1.52E-05
+Apple,iPhone 7 Plus,,iOS 14.4.1,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 14.4.1,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 14.5,1,1.52E-05
+Apple,iPad Mini 3,,iOS 12.4.6,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 14.7.1,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 15.0,1,1.52E-05
+Apple,iPad (7th gen),,iOS 14.4.1,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 15.3,1,1.52E-05
+Apple,iPhone 6,,iOS 12.5.1,1,1.52E-05
+Apple,iPhone 6,,iOS 12.4.9,1,1.52E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.0.2,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 15.2,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 14.4.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 14.7.1,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 14.7.1,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 15.2.1,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 15.5,1,1.52E-05
+Apple,iPad 6th gen,,iOS 14.5.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 12.3.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 13.3.1,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 15.3.1,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 15.0.2,1,1.52E-05
+Apple,iPhone 6s,,iOS 12.4,1,1.52E-05
+Apple,iPad Air 2,,iOS 12.4.1,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 15.2,1,1.52E-05
+Apple,iPad mini (6th generation),,iOS 16.0,1,1.52E-05
+Apple,iPad Air (3rd gen),,iOS 15.3.1,1,1.52E-05
+Apple,iPad 5th gen,,iOS 15.0,1,1.52E-05
+Apple,iPad Air 2,,iOS 12.3.1,1,1.52E-05
+Apple,iPhone XR,,iOS 13.5,1,1.52E-05
+Apple,iPad 6th gen,,iOS 14.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 14.6,1,1.52E-05
+Apple,iPhone 7 Plus,,iOS 12.4.1,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 14.4.2,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 13.3,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 14.4.2,1,1.52E-05
+Apple,iPhone 8,,iOS 13.5,1,1.52E-05
+Apple,iPad Pro (11-inch) (3rd generation),,iOS 15.3,1,1.52E-05
+Apple,iPhone SE,,iOS 14.5.1,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 13.7,1,1.52E-05
+Apple,iPhone 8,,iOS 12.3.1,1,1.52E-05
+Apple,iPhone 11 Pro Max,,iOS 13.6.1,1,1.52E-05
+Apple,iPhone 6s Plus,,iOS 14.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 15.2.1,1,1.52E-05
+Apple,iPad (8th gen),,iOS 14.0.1,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 14.4,1,1.52E-05
+Apple,iPhone XR,,iOS 12.3.1,1,1.52E-05
+Apple,iPhone SE,,iOS 12.4.1,1,1.52E-05
+Apple,iPhone 8,,iOS 13.4,1,1.52E-05
+Apple,iPhone X,,iOS 15.0.1,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 15.4.1,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 15.1,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (5th generation),,iOS 14.6,1,1.52E-05
+Apple,iPad mini (6th generation),,iOS 15.2.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.4.1,1,1.52E-05
+Apple,iPad (7th gen),,iOS 13.2,1,1.52E-05
+Apple,iPad Pro 12.9 2nd gen,,iOS 14.0,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 15.2.1,1,1.52E-05
+Apple,iPad Pro (11-inch) (2nd generation),,iOS 15.0.2,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 14.2,1,1.52E-05
+Apple,iPad (8th gen),,iOS 15.0.1,1,1.52E-05
+Apple,iPhone 8 Plus,,iOS 13.7,1,1.52E-05
+Apple,iPhone 11 Pro,,iOS 14.3,1,1.52E-05
+Apple,iPad Mini 2,,iOS 12.4.9,1,1.52E-05
+Apple,iPad Air (4th gen),,iOS 14.4,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 14.6,1,1.52E-05
+Apple,iPhone 7,,iOS 12.3.1,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 14.0.1,1,1.52E-05
+Apple,iPhone 11 Pro Max,,iOS 16.2,1,1.52E-05
+Apple,iPad Mini 2,,iOS 12.5,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 14.4.1,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 15.4,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (3rd generation),,iOS 14.1,1,1.52E-05
+Apple,iPad Air 2,,iOS 13.4.1,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 15.7,1,1.52E-05
+Apple,iPad Air,,iOS 12.3.1,1,1.52E-05
+Apple,iPod touch 6th gen,,iOS 12.5.1,1,1.52E-05
+Apple,iPhone XS Max,,iOS 13.3.1,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 14.4,1,1.52E-05
+Apple,iPad Mini 4,,iOS 15.0.1,1,1.52E-05
+Apple,iPad (7th gen),,iOS 14.1,1,1.52E-05
+Apple,iPad Mini 4,,iOS 12.4,1,1.52E-05
+Apple,iPod,,iOS 15.7,1,1.52E-05
+Apple,iPhone 6s Plus,,iOS 12.3.1,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 14.2,1,1.52E-05
+Apple,iPhone 11 Pro,,iOS 15.3,1,1.52E-05
+Apple,iPhone SE,,iOS 13.3,1,1.52E-05
+Apple,iPad 6th gen,,iOS 13.6,1,1.52E-05
+Apple,iPod touch 6th gen,,iOS 12.4.9,1,1.52E-05
+Apple,iPhone 5s,,iOS 12.3.1,1,1.52E-05
+Apple,iPad Pro (12.9-inch) (4th generation),,iOS 14.2,1,1.52E-05
+Apple,iPad 5th gen,,iOS 14.4.2,1,1.52E-05
+Apple,iPad (8th gen),,iOS 15.0.2,1,1.52E-05
+Apple,iPad 6th gen,,iOS 14.0.1,1,1.52E-05
+Apple,iPhone 12,,iOS 14.4,1,1.52E-05
+Apple,iPhone 7,,iOS 13.3.1,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 14.5,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 15.5,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 13.4.1,1,1.52E-05
+Apple,iPad (7th gen),,iOS 14.4,1,1.52E-05
+Apple,iPhone 7 Plus,,iOS 13.4.1,1,1.52E-05
+Apple,iPad Mini 4,,iOS 14.8,1,1.52E-05
+Apple,iPad Mini 4,,iOS 15.3.1,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 13.3,1,1.52E-05
+Apple,iPhone 7,,iOS 13.1.1,1,1.52E-05
+Apple,iPhone 13 Pro,,iOS 15.2,1,1.52E-05
+Apple,iPod touch (7th generation),,iOS 13.5.1,1,1.52E-05
+Apple,iPhone 11,,iOS 13.7,1,1.52E-05
+Apple,iPhone XS,,iOS 15.0.2,1,1.52E-05
+Apple,iPad mini (6th generation),,iOS 15.0.1,1,1.52E-05
+Apple,iPhone 11,,iOS 14.5,1,1.52E-05
+Apple,iPhone XS,,iOS 14.3,1,1.52E-05
+Apple,iPad Pro (11-inch),,iOS 15.2.1,1,1.52E-05
+Apple,iPad Pro 9.7 inch,,iOS 15.4,1,1.52E-05
+Apple,iPad Pro 10.5,,iOS 12.3.1,1,1.52E-05
+Apple,iPhone 11 Pro,,iOS 15.7.1,1,1.52E-05
+Apple,iPad 6th gen,,iOS 12.3,1,1.52E-05
+Apple,iPad 5th gen,,iOS 12.4,1,1.52E-05
+Apple,iPad mini (5th generation),,iOS 14.2,1,1.52E-05
+Apple,iPad Air,,iOS 12.5.1,1,1.52E-05
+Apple,iPad Pro 12.9 inch,,iOS 16.1.1,1,1.52E-05

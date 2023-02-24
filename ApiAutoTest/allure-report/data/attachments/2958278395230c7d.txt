@@ -1,0 +1,52 @@
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/common/sendSmsV3 HTTP/1.1" 200 None
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/common/validSmsCode HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/3CQ5', 'id': 58804776, 'timeDifference': 1631165939152, 'invitationCode': '', 'parentalId': '', 'eName': '15800000054', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1631165939000, 'telphone': '15800000054', 'grade': 20, 'birthday': '1227332801000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/bMBFfi', 'vcrUrl': '', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '0515764540', 'videoCheckStatus': '5', 'authenticationStatus': 'NotCertified', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '0874605230d44f7d8a42b67845114625', 'token': '1X3cOf3rOjIpbu8qaEuXPQ==', 'headImgUrl': 'https://d3bzbwhj6i6ie6.cloudfront.net/public/cover/2023-01/0.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676703651259', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676703652564, 'userId': 58804776}}
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/3CQ5', 'id': 58804776, 'timeDifference': 1631165939152, 'invitationCode': '', 'parentalId': '', 'eName': '15800000054', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1631165939000, 'telphone': '15800000054', 'grade': 20, 'birthday': '1227332801000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/bMBFfi', 'vcrUrl': '', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '0515764540', 'videoCheckStatus': '5', 'authenticationStatus': 'NotCertified', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '0874605230d44f7d8a42b67845114625', 'token': '1X3cOf3rOjIpbu8qaEuXPQ==', 'headImgUrl': 'https://d3bzbwhj6i6ie6.cloudfront.net/public/cover/2023-01/0.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676703651259', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676703652564, 'userId': 58804776}}
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 用户VideoMention好友消息列表
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v2/api/mention/getUserMentionMsgPageList HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 getUserMentionMsgPageList:{'code': 200, 'body': {'data': {'pageSet': 'page=0&pageSize=10&hasMore=false', 'toTalSize': 4, 'findRespVoListSize': 4, 'findRespVoList': [{'createTime': 1646724892000, 'videoImgUrl': 'https://d25cthknp2ssc4.cloudfront.net/video/cover/QAb8ac6e9e9736fa96cb7a31a058a4ca3f.webp', 'formatTime': '49 weeks ago', 'userEName': 'Hi Frog', 'videoId': '21643913', 'userId': '88637400'}, {'createTime': 1646720641000, 'videoImgUrl': 'https://d25cthknp2ssc4.cloudfront.net/video/cover/b65264f93835e8702f2e67ef4bd82216.webp', 'formatTime': '49 weeks ago', 'userEName': '??heredity', 'videoId': '76769298', 'userId': '25244103'}, {'createTime': 1645781901000, 'videoImgUrl': 'https://d25cthknp2ssc4.cloudfront.net/video/cover/4f31fae821b694bf40548e4adf36d0e8.webp', 'formatTime': '51 weeks ago', 'userEName': '??heredity', 'videoId': '44236745', 'userId': '25244103'}, {'createTime': 1645768232000, 'videoImgUrl': 'https://d25cthknp2ssc4.cloudfront.net/video/cover/d2676d8ad104b5e6b6b3cc6644d3b7a8.webp', 'formatTime': '51 weeks ago', 'userEName': 'Kkkm', 'videoId': '49026523', 'userId': '33769113'}]}, 'id': '1676703652639', 'state': {'msg': 'get successful;get successful', 'code': 0}, 'time': 1676703654102, 'userId': 58804776}}
+ERROR    sshtunnel.SSHTunnelForwarder:sshtunnel.py:1314 Password is required for key /Users/voryn/.ssh/id_rsa
+DEBUG    paramiko.transport:transport.py:1871 starting thread (client mode): 0x6a4b0bb0
+DEBUG    paramiko.transport:transport.py:1871 Local version/idstring: SSH-2.0-paramiko_3.0.0
+DEBUG    paramiko.transport:transport.py:1871 Remote version/idstring: SSH-2.0-OpenSSH_7.4
+INFO     paramiko.transport:transport.py:1871 Connected (version 2.0, client OpenSSH_7.4)
+DEBUG    paramiko.transport:transport.py:1871 === Key exchange possibilities ===
+DEBUG    paramiko.transport:transport.py:1871 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha256, diffie-hellman-group14-sha1, diffie-hellman-group1-sha1
+DEBUG    paramiko.transport:transport.py:1871 server key: ssh-rsa, rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+DEBUG    paramiko.transport:transport.py:1871 client encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, cast128-cbc, 3des-cbc
+DEBUG    paramiko.transport:transport.py:1871 server encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, cast128-cbc, 3des-cbc
+DEBUG    paramiko.transport:transport.py:1871 client mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+DEBUG    paramiko.transport:transport.py:1871 server mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+DEBUG    paramiko.transport:transport.py:1871 client compress: none, zlib@openssh.com
+DEBUG    paramiko.transport:transport.py:1871 server compress: none, zlib@openssh.com
+DEBUG    paramiko.transport:transport.py:1871 client lang: <none>
+DEBUG    paramiko.transport:transport.py:1871 server lang: <none>
+DEBUG    paramiko.transport:transport.py:1871 kex follows: False
+DEBUG    paramiko.transport:transport.py:1871 === Key exchange agreements ===
+DEBUG    paramiko.transport:transport.py:1871 Kex: curve25519-sha256@libssh.org
+DEBUG    paramiko.transport:transport.py:1871 HostKey: ssh-ed25519
+DEBUG    paramiko.transport:transport.py:1871 Cipher: aes128-ctr
+DEBUG    paramiko.transport:transport.py:1871 MAC: hmac-sha2-256
+DEBUG    paramiko.transport:transport.py:1871 Compression: none
+DEBUG    paramiko.transport:transport.py:1871 === End of kex handshake ===
+DEBUG    paramiko.transport:transport.py:1871 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+DEBUG    paramiko.transport:transport.py:1871 Switch to new keys ...
+DEBUG    paramiko.transport:transport.py:1871 Got EXT_INFO: {'server-sig-algs': b'rsa-sha2-256,rsa-sha2-512'}
+DEBUG    paramiko.transport:transport.py:1871 Attempting public-key auth...
+DEBUG    paramiko.transport:transport.py:1871 userauth is OK
+DEBUG    paramiko.transport:transport.py:1871 Finalizing pubkey algorithm for key of type 'ssh-rsa'
+DEBUG    paramiko.transport:transport.py:1871 Our pubkey algorithm list: ['rsa-sha2-512', 'rsa-sha2-256', 'ssh-rsa']
+DEBUG    paramiko.transport:transport.py:1871 Server-side algorithm list: ['rsa-sha2-256', 'rsa-sha2-512']
+DEBUG    paramiko.transport:transport.py:1871 Agreed upon 'rsa-sha2-512' pubkey algorithm
+INFO     paramiko.transport:transport.py:1871 Authentication (publickey) successful!
+DEBUG    paramiko.transport:channel.py:1210 [chan 0] Max packet in: 32768 bytes
+DEBUG    paramiko.transport:transport.py:1871 Received global request "hostkeys-00@openssh.com"
+DEBUG    paramiko.transport:transport.py:1871 Rejecting "hostkeys-00@openssh.com" global request from server.
+DEBUG    paramiko.transport:channel.py:1210 [chan 0] Max packet out: 32768 bytes
+DEBUG    paramiko.transport:transport.py:1871 Secsh channel 0 opened.

@@ -1,0 +1,5 @@
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 获取被添加亲密好友列表接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/bestFriend/getAddBestFriendList HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 getAddBestFriendList:{'code': 200, 'body': {'data': {'pageSet': 'page=0&pageSize=12&hasMore=false', 'toTalSize': 1, 'findRespVoListSize': 1, 'findRespVoList': [{'maxLimitBestFriendFlag': False, 'friendNewMsgSize': 11, 'headImgUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/img/AND_P_AVATAR_CROP_1637573430234_85484422.png', 'eName': '85858585', 'friendUserAccId': '', 'id': 849, 'friendUserId': 85484422}]}, 'id': '1676703672025', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703674910, 'userId': 58804776}}

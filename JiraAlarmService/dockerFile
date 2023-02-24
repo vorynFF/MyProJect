@@ -1,0 +1,18 @@
+#基于的基础镜像
+FROM python:3.9
+
+#语言编码设置
+RUN localedef -c -f UTF-8 -i zh_CN zh_CN.utf8
+ENV LC_ALL zh_CN.UTF-88
+
+#代码添加到code文件夹
+ADD ./EF_NFCS /code
+
+# 设置code文件夹是工作目录
+WORKDIR /code
+
+# 安装支持
+RUN pip install -r requirements.txt
+
+CMD ["python", "/code/package/server.py"]
+

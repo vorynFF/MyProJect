@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Frog" label="Frog" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+                <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="FRCameraHomePage" enabled="true" visible="false" accessible="false" x="0" y="48" width="414" height="44" index="0"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="1">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="-150" width="414" height="150" index="0">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="0" y="-150" width="414" height="150" index="0"/>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="414" height="896" index="1">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="0" y="0" width="414" height="896" index="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="414" height="896" index="1"/>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="2">
+                        <XCUIElementTypeCollectionView type="XCUIElementTypeCollectionView" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+                          <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="896" index="0">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="414" height="220" index="0">
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" name="camera menu switch" label="camera menu switch" enabled="true" visible="true" accessible="true" x="7" y="70" width="45" height="45" index="0"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" name="camera menu sup" label="camera menu sup" enabled="true" visible="true" accessible="true" x="196" y="64" width="82" height="57" index="1"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" name="camera menu noti" label="camera menu noti" enabled="true" visible="true" accessible="true" x="280" y="64" width="57" height="57" index="2">
+                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="true" accessible="false" x="319" y="73" width="2" height="12" index="0"/>
+                                  </XCUIElementTypeButton>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" name="camera menu invite" label="camera menu invite" enabled="true" visible="true" accessible="true" x="339" y="64" width="57" height="57" index="3"/>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeCell>
+                        </XCUIElementTypeCollectionView>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="302" width="414" height="356" index="3"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="357" width="414" height="301" index="4">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="357" width="414" height="301" index="0">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="358" width="414" height="300" index="0">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="18" y="358" width="378" height="300" index="0"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="18" y="358" width="378" height="300" index="1"/>
+                            <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Tap to reply directly " name="Tap to reply directly " label="Tap to reply directly " enabled="true" visible="true" accessible="true" x="42" y="382" width="99" height="15" index="2"/>
+                            <XCUIElementTypeButton type="XCUIElementTypeButton" name="Ignore" label="Ignore" enabled="true" visible="true" accessible="true" x="341" y="382" width="31" height="15" index="3">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Ignore" name="Ignore" label="Ignore" enabled="true" visible="true" accessible="false" x="341" y="382" width="31" height="15" index="0"/>
+                            </XCUIElementTypeButton>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="18" y="435" width="378" height="146" index="4">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="167" y="435" width="80" height="81" index="0">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="167" y="435" width="80" height="81" index="0"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="168" y="436" width="78" height="79" index="1">
+                                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="168" y="436" width="78" height="79" index="0"/>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="wuhaibo sent you wyd" name="wuhaibo sent you wyd" label="wuhaibo sent you wyd" enabled="true" visible="true" accessible="true" x="58" y="535" width="298" height="24" index="1"/>
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="1 hour ago" name="1 hour ago" label="1 hour ago" enabled="true" visible="true" accessible="true" x="182" y="566" width="50" height="15" index="2"/>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="670" width="414" height="82" index="5">
+                        <XCUIElementTypeCollectionView type="XCUIElementTypeCollectionView" enabled="true" visible="true" accessible="false" x="0" y="670" width="414" height="82" index="0">
+                          <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" accessible="false" x="177" y="681" width="60" height="60" index="0">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="177" y="681" width="60" height="60" index="0">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="177" y="681" width="60" height="60" index="0"/>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeCell>
+                          <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" accessible="false" x="266" y="688" width="46" height="46" index="1">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="266" y="688" width="46" height="46" index="0">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="266" y="688" width="46" height="46" index="0"/>
+                              <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="268" y="690" width="42" height="42" index="1"/>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeCell>
+                        </XCUIElementTypeCollectionView>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="166" y="670" width="82" height="82" index="1">
+                          <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="172" y="676" width="70" height="69" index="0"/>
+                        </XCUIElementTypeImage>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="896" width="414" height="360" index="6">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="0" y="896" width="414" height="360" index="0"/>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+          <XCUIElementTypeTabBar type="XCUIElementTypeTabBar" name="Tab Bar" label="Tab Bar" enabled="true" visible="true" accessible="false" x="44" y="786" width="326" height="76" index="1">
+            <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="44" y="786" width="326" height="76" index="0"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" accessible="true" x="46" y="787" width="61" height="75" index="1"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" accessible="true" x="110" y="787" width="62" height="75" index="2"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" value="1" enabled="true" visible="true" accessible="true" x="175" y="787" width="64" height="75" index="3"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" accessible="true" x="242" y="787" width="62" height="75" index="4"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" accessible="true" x="307" y="787" width="61" height="75" index="5"/>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="274" y="806" width="12" height="12" index="6"/>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="321" y="806" width="12" height="12" index="7"/>
+          </XCUIElementTypeTabBar>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" accessible="false" x="0" y="0" width="414" height="896" index="1">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="414" height="896" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="414" height="896" index="0"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication>

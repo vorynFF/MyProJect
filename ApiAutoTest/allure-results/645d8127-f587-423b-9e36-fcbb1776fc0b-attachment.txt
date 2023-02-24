@@ -1,0 +1,15 @@
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 获取好友的whatsUpStatus状态接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/friend/getWhatsUpStatus HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 res:{'code': 200, 'body': {'data': {'whatsUpStatus': 'true', 'isWhatsUpMag': 'false'}, 'id': '1676703802169', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703811929, 'userId': 94561788}}
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 whatsUp消息发送接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/shake/saveUserShake HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 res:{'code': 200, 'body': {'id': '1676703806196', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703813725, 'userId': 82632214}}
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 获取好友的whatsUpStatus状态接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/friend/getWhatsUpStatus HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 res:{'code': 200, 'body': {'data': {'whatsUpStatus': 'true', 'isWhatsUpMag': 'true'}, 'id': '1676703802169', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703815013, 'userId': 94561788}}

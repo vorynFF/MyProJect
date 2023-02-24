@@ -1,0 +1,401 @@
+2023-02-21 13:57:32,398 - INFO: info……
+2023-02-21 13:57:32,399 - WARNING: warn……
+2023-02-21 13:57:32,399 - CRITICAL: critical……
+2023-02-21 13:57:32,399 - ERROR: error……
+2023-02-21 13:57:39,702 - INFO: info……
+2023-02-21 13:57:39,702 - WARNING: warn……
+2023-02-21 13:57:39,702 - CRITICAL: critical……
+2023-02-21 13:57:39,702 - ERROR: error……
+2023-02-21 13:57:57,254 - INFO: info……
+2023-02-21 13:57:57,255 - WARNING: warn……
+2023-02-21 13:57:57,255 - CRITICAL: critical……
+2023-02-21 13:57:57,255 - ERROR: error……
+2023-02-21 13:58:47,572 - INFO: info……
+2023-02-21 13:58:47,575 - WARNING: warn……
+2023-02-21 13:58:47,575 - CRITICAL: critical……
+2023-02-21 13:58:47,575 - ERROR: error……
+2023-02-21 13:59:07,048 - INFO: info……
+2023-02-21 13:59:07,048 - WARNING: warn……
+2023-02-21 13:59:07,048 - CRITICAL: critical……
+2023-02-21 13:59:07,049 - ERROR: error……
+2023-02-21 14:00:19,263 - INFO: 11112312321321
+2023-02-21 14:00:34,859 - INFO: sdasdasdasdasda
+2023-02-21 14:00:59,127 - INFO: 11112312321321
+2023-02-21 14:01:10,179 - INFO: sdasdasdasdasda
+2023-02-21 14:02:37,517 - INFO: 11112312321321
+2023-02-21 14:02:39,253 - INFO: sdasdasdasdasda
+2023-02-21 14:02:47,443 - INFO: 11112312321321
+2023-02-21 14:02:47,444 - INFO: sdasdasdasdasda
+2023-02-21 14:02:55,987 - INFO: 11112312321321
+2023-02-21 14:02:55,988 - DEBUG: sdasdasdasdasda
+2023-02-21 14:03:03,919 - INFO: 11112312321321
+2023-02-21 14:03:03,919 - CRITICAL: sdasdasdasdasda
+2023-02-21 14:03:30,178 - INFO: 11112312321321
+2023-02-21 14:03:30,179 - CRITICAL: sdasdasdasdasda
+2023-02-21 14:03:44,277 - INFO: 11112312321321
+2023-02-21 14:03:44,278 - DEBUG: sdasdasdasdasda
+2023-02-21 14:03:50,272 - INFO: 11112312321321
+2023-02-21 14:03:50,272 - INFO: sdasdasdasdasda
+2023-02-21 14:07:10,138 - INFO: info……
+2023-02-21 14:07:10,138 - WARNING: warn……
+2023-02-21 14:07:10,138 - CRITICAL: critical……
+2023-02-21 14:07:10,138 - ERROR: error……
+[2023-02-21 14:12:14,820] sshtunnel.py->read_private_key_file line:1314 [ERROR]Password is required for key /Users/voryn/.ssh/id_rsa
+[2023-02-21 14:12:15,413] transport.py->_log line:1873 [INFO]Connected (version 2.0, client OpenSSH_7.4)
+[2023-02-21 14:12:16,882] transport.py->_log line:1873 [INFO]Authentication (publickey) successful!
+2023-02-21 14:12:23,379 - INFO: 登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/zfgj', 'id': 43211195, 'timeDifference': 1655272332791, 'invitationCode': '', 'parentalId': '', 'eName': 'wuhaibo', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1655272334000, 'telphone': '13521011463', 'grade': 20, 'birthday': '760982400000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/IVNV7v', 'vcrUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/video/TXVideo_1655272366919e5356b439f824874b6e434b634fb01a21655207866283.mp4', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '4923995137', 'videoCheckStatus': '20', 'authenticationStatus': 'NotCertified', 'social': 'ambassador', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '37714cd9b67a4fea9f7e12a15b79211f', 'token': '3aMbWVZS70NAwnkahrTumw==', 'headImgUrl': 'https://d38ll5ex55ai1q.cloudfront.net/video/cover/1663846398464.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676959941613', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676959943341, 'userId': 43211195}}
+[2023-02-21 14:12:23,379] Loggers.py->info line:74 [INFO]登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/zfgj', 'id': 43211195, 'timeDifference': 1655272332791, 'invitationCode': '', 'parentalId': '', 'eName': 'wuhaibo', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1655272334000, 'telphone': '13521011463', 'grade': 20, 'birthday': '760982400000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/IVNV7v', 'vcrUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/video/TXVideo_1655272366919e5356b439f824874b6e434b634fb01a21655207866283.mp4', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '4923995137', 'videoCheckStatus': '20', 'authenticationStatus': 'NotCertified', 'social': 'ambassador', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '37714cd9b67a4fea9f7e12a15b79211f', 'token': '3aMbWVZS70NAwnkahrTumw==', 'headImgUrl': 'https://d38ll5ex55ai1q.cloudfront.net/video/cover/1663846398464.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676959941613', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676959943341, 'userId': 43211195}}
+2023-02-21 14:12:23,380 - INFO: 登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/zfgj', 'id': 43211195, 'timeDifference': 1655272332791, 'invitationCode': '', 'parentalId': '', 'eName': 'wuhaibo', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1655272334000, 'telphone': '13521011463', 'grade': 20, 'birthday': '760982400000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/IVNV7v', 'vcrUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/video/TXVideo_1655272366919e5356b439f824874b6e434b634fb01a21655207866283.mp4', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '4923995137', 'videoCheckStatus': '20', 'authenticationStatus': 'NotCertified', 'social': 'ambassador', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '37714cd9b67a4fea9f7e12a15b79211f', 'token': '3aMbWVZS70NAwnkahrTumw==', 'headImgUrl': 'https://d38ll5ex55ai1q.cloudfront.net/video/cover/1663846398464.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676959941613', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676959943341, 'userId': 43211195}}
+[2023-02-21 14:12:23,380] Loggers.py->info line:74 [INFO]登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/zfgj', 'id': 43211195, 'timeDifference': 1655272332791, 'invitationCode': '', 'parentalId': '', 'eName': 'wuhaibo', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1655272334000, 'telphone': '13521011463', 'grade': 20, 'birthday': '760982400000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/IVNV7v', 'vcrUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/video/TXVideo_1655272366919e5356b439f824874b6e434b634fb01a21655207866283.mp4', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '4923995137', 'videoCheckStatus': '20', 'authenticationStatus': 'NotCertified', 'social': 'ambassador', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '37714cd9b67a4fea9f7e12a15b79211f', 'token': '3aMbWVZS70NAwnkahrTumw==', 'headImgUrl': 'https://d38ll5ex55ai1q.cloudfront.net/video/cover/1663846398464.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676959941613', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676959943341, 'userId': 43211195}}
+2023-02-21 14:12:23,381 - INFO: 保存客户端开启和关闭时间
+[2023-02-21 14:12:23,381] Loggers.py->info line:74 [INFO]保存客户端开启和关闭时间
+2023-02-21 14:12:24,938 - INFO: saveAppOnlineTime:{'code': 200, 'body': {'id': '1676959943381', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676959944928, 'userId': 43211195}}
+[2023-02-21 14:12:24,938] Loggers.py->info line:74 [INFO]saveAppOnlineTime:{'code': 200, 'body': {'id': '1676959943381', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676959944928, 'userId': 43211195}}
+2023-02-21 14:15:00,869 - INFO: 11112312321321
+2023-02-21 14:15:00,869 - INFO: sdasdasdasdasda
+2023-02-21 14:16:54,981 - INFO: 11112312321321
+2023-02-21 14:16:54,981 - INFO: sdasdasdasdasda
+2023-02-21 14:17:18,477 - INFO: 11112312321321
+2023-02-21 14:17:18,478 - INFO: sdasdasdasdasda
+2023-02-21 14:23:07,019 - INFO: info……
+2023-02-21 14:23:07,020 - WARNING: warn……
+2023-02-21 14:23:07,020 - CRITICAL: critical……
+2023-02-21 14:23:07,020 - ERROR: error……
+2023-02-21 14:32:48,912 - INFO: info……
+2023-02-21 14:32:48,912 - WARNING: warn……
+2023-02-21 14:32:48,912 - CRITICAL: critical……
+2023-02-21 14:32:48,912 - ERROR: error……
+2023-02-21 14:39:09,887 [Loggers.py:info:87] [INFO]: info……
+2023-02-21 14:39:09,888 [Loggers.py:warn:94] [WARNING]: warn……
+2023-02-21 14:39:09,888 [Loggers.py:critical:101] [CRITICAL]: critical……
+2023-02-21 14:39:09,888 [Loggers.py:error:108] [ERROR]: error……
+2023-02-21 14:39:19,758 [Loggers.py:info:87] [INFO]: 11112312321321
+2023-02-21 14:39:19,758 [Loggers.py:info:87] [INFO]: sdasdasdasdasda
+2023-02-21 14:42:38,987 [slll.py:rw:10] [INFO]: 11112312321321
+2023-02-21 14:42:38,988 [slll.py:ww:16] [INFO]: sdasdasdasdasda
+2023-02-21 14:50:55,068 [Loggers.py:<module>:113] [INFO]: info……[0m
+2023-02-21 14:50:55,070 [Loggers.py:warn:93] [WARNING]: warn……[0m
+2023-02-21 14:50:55,070 [Loggers.py:critical:100] [CRITICAL]: critical……[0m
+2023-02-21 14:50:55,070 [Loggers.py:error:107] [ERROR]: error……[0m
+2023-02-21 14:58:54,531 [Loggers.py:<module>:107] [INFO]: info……
+2023-02-21 14:58:54,532 [Loggers.py:warn:87] [WARNING]: warn……
+2023-02-21 14:58:54,532 [Loggers.py:critical:94] [CRITICAL]: critical……
+2023-02-21 14:58:54,532 [Loggers.py:error:101] [ERROR]: error……
+2023-02-21 14:59:23,230 [Loggers.py:debug:72] [DEBUG]: [37mDEBUG - debug……[0m
+2023-02-21 14:59:23,231 [Loggers.py:<module>:108] [INFO]: info……
+2023-02-21 14:59:23,231 [Loggers.py:warn:87] [WARNING]: warn……
+2023-02-21 14:59:23,232 [Loggers.py:critical:94] [CRITICAL]: critical……
+2023-02-21 14:59:23,232 [Loggers.py:error:101] [ERROR]: error……
+2023-02-21 15:00:17,394 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:00:17,394 [Loggers.py:<module>:108] [INFO]: info……
+2023-02-21 15:00:17,395 [Loggers.py:warn:87] [WARNING]: warn……
+2023-02-21 15:00:17,395 [Loggers.py:critical:94] [CRITICAL]: critical……
+2023-02-21 15:00:17,395 [Loggers.py:error:101] [ERROR]: error……
+2023-02-21 15:00:37,647 [slll.py:rw:10] [INFO]: 11112312321321
+2023-02-21 15:00:37,648 [slll.py:ww:16] [INFO]: sdasdasdasdasda
+2023-02-21 15:02:04,635 [slll.py:rw:10] [INFO]: [36mINFO - 11112312321321[0m
+2023-02-21 15:02:04,639 [slll.py:ww:16] [INFO]: [36mINFO - sdasdasdasdasda[0m
+2023-02-21 15:02:22,083 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:02:22,083 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:02:22,083 [Loggers.py:warn:87] [WARNING]: warn……
+2023-02-21 15:02:22,083 [Loggers.py:critical:94] [CRITICAL]: critical……
+2023-02-21 15:02:22,084 [Loggers.py:error:101] [ERROR]: error……
+2023-02-21 15:03:14,422 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:03:14,422 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:03:14,422 [Loggers.py:warn:87] [WARNING]: [31mWARNING - warn……[0m
+2023-02-21 15:03:14,422 [Loggers.py:critical:94] [CRITICAL]: critical……
+2023-02-21 15:03:14,422 [Loggers.py:error:101] [ERROR]: error……
+2023-02-21 15:03:42,911 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:03:42,911 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:03:42,911 [Loggers.py:warn:87] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:03:42,911 [Loggers.py:critical:94] [CRITICAL]: critical……
+2023-02-21 15:03:42,911 [Loggers.py:error:101] [ERROR]: error……
+2023-02-21 15:04:29,641 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:04:29,641 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:04:29,641 [Loggers.py:warn:87] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:04:29,642 [Loggers.py:critical:94] [CRITICAL]: [30mCRITICAL - critical……[0m
+2023-02-21 15:04:29,642 [Loggers.py:error:101] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:04:42,411 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:04:42,411 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:04:42,411 [Loggers.py:warn:87] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:04:42,411 [Loggers.py:critical:94] [CRITICAL]: [34mCRITICAL - critical……[0m
+2023-02-21 15:04:42,411 [Loggers.py:error:101] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:04:50,520 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:04:50,520 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:04:50,521 [Loggers.py:warn:87] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:04:50,521 [Loggers.py:critical:94] [CRITICAL]: [35mCRITICAL - critical……[0m
+2023-02-21 15:04:50,521 [Loggers.py:error:101] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:05:00,123 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:05:00,123 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:05:00,123 [Loggers.py:warn:87] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:05:00,124 [Loggers.py:critical:94] [CRITICAL]: [39mCRITICAL - critical……[0m
+2023-02-21 15:05:00,124 [Loggers.py:error:101] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:05:11,348 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:05:11,349 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:05:11,349 [Loggers.py:warn:87] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:05:11,349 [Loggers.py:critical:94] [CRITICAL]: [37mCRITICAL - critical……[0m
+2023-02-21 15:05:11,349 [Loggers.py:error:101] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:05:38,607 [Loggers.py:debug:72] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:05:38,607 [Loggers.py:<module>:108] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:05:38,607 [Loggers.py:warn:87] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:05:38,607 [Loggers.py:critical:94] [CRITICAL]: [35mCRITICAL - critical……[0m
+2023-02-21 15:05:38,608 [Loggers.py:error:101] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:07:07,654 [Loggers.py:<module>:111] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:07:07,654 [Loggers.py:<module>:112] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:07:07,654 [Loggers.py:<module>:113] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:07:07,654 [Loggers.py:<module>:114] [CRITICAL]: [35mCRITICAL - critical……[0m
+2023-02-21 15:07:07,654 [Loggers.py:<module>:115] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:07:15,224 [slll.py:rw:10] [INFO]: [32mINFO - 11112312321321[0m
+2023-02-21 15:07:15,224 [slll.py:ww:16] [INFO]: [32mINFO - sdasdasdasdasda[0m
+2023-02-21 15:07:33,740 [Loggers.py:<module>:111] [DEBUG]: [36mDEBUG - debug……[0m
+2023-02-21 15:07:33,740 [Loggers.py:<module>:112] [INFO]: [32mINFO - info……[0m
+2023-02-21 15:07:33,740 [Loggers.py:<module>:113] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:07:33,740 [Loggers.py:<module>:114] [CRITICAL]: [35mCRITICAL - critical……[0m
+2023-02-21 15:07:33,740 [Loggers.py:<module>:115] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:07:46,415 [slll.py:rw:10] [INFO]: [36mINFO - 11112312321321[0m
+2023-02-21 15:07:46,416 [slll.py:ww:16] [INFO]: [36mINFO - sdasdasdasdasda[0m
+2023-02-21 15:09:53,294 - Loggers.py[line:111] - /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_21_test.log - [32mDEBUG - debug……[0m
+2023-02-21 15:09:53,296 - Loggers.py[line:112] - /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_21_test.log - [36mINFO - info……[0m
+2023-02-21 15:09:53,296 - Loggers.py[line:113] - /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_21_test.log - [33mWARNING - warn……[0m
+2023-02-21 15:09:53,297 - Loggers.py[line:114] - /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_21_test.log - [35mCRITICAL - critical……[0m
+2023-02-21 15:09:53,297 - Loggers.py[line:115] - /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_21_test.log - [31mERROR - error……[0m
+2023-02-21 15:10:23,289 [Loggers.py:<module>:111] [DEBUG]: [32mDEBUG - debug……[0m
+2023-02-21 15:10:23,289 [Loggers.py:<module>:112] [INFO]: [36mINFO - info……[0m
+2023-02-21 15:10:23,289 [Loggers.py:<module>:113] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:10:23,290 [Loggers.py:<module>:114] [CRITICAL]: [35mCRITICAL - critical……[0m
+2023-02-21 15:10:23,290 [Loggers.py:<module>:115] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:10:53,991 [Loggers.py:<module>:[line:111]] [DEBUG]: [32mDEBUG - debug……[0m
+2023-02-21 15:10:53,991 [Loggers.py:<module>:[line:112]] [INFO]: [36mINFO - info……[0m
+2023-02-21 15:10:53,991 [Loggers.py:<module>:[line:113]] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:10:53,991 [Loggers.py:<module>:[line:114]] [CRITICAL]: [35mCRITICAL - critical……[0m
+2023-02-21 15:10:53,991 [Loggers.py:<module>:[line:115]] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:11:05,090 [Loggers.py:[line:111]] [DEBUG]: [32mDEBUG - debug……[0m
+2023-02-21 15:11:05,091 [Loggers.py:[line:112]] [INFO]: [36mINFO - info……[0m
+2023-02-21 15:11:05,091 [Loggers.py:[line:113]] [WARNING]: [33mWARNING - warn……[0m
+2023-02-21 15:11:05,091 [Loggers.py:[line:114]] [CRITICAL]: [35mCRITICAL - critical……[0m
+2023-02-21 15:11:05,091 [Loggers.py:[line:115]] [ERROR]: [31mERROR - error……[0m
+2023-02-21 15:11:41,189 [Loggers.py:[line:111]] [32mDEBUG - debug……[0m
+2023-02-21 15:11:41,189 [Loggers.py:[line:112]] [36mINFO - info……[0m
+2023-02-21 15:11:41,189 [Loggers.py:[line:113]] [33mWARNING - warn……[0m
+2023-02-21 15:11:41,189 [Loggers.py:[line:114]] [35mCRITICAL - critical……[0m
+2023-02-21 15:11:41,189 [Loggers.py:[line:115]] [31mERROR - error……[0m
+2023-02-21 15:11:53,947 [Loggers.py:[line:111]] [32m[DEBUG] - debug……[0m
+2023-02-21 15:11:53,947 [Loggers.py:[line:112]] [36mINFO - info……[0m
+2023-02-21 15:11:53,947 [Loggers.py:[line:113]] [33mWARNING - warn……[0m
+2023-02-21 15:11:53,947 [Loggers.py:[line:114]] [35mCRITICAL - critical……[0m
+2023-02-21 15:11:53,947 [Loggers.py:[line:115]] [31mERROR - error……[0m
+2023-02-21 15:12:19,335 [Loggers.py:[line:111]] [32m[DEBUG] - debug……[0m
+2023-02-21 15:12:19,336 [Loggers.py:[line:112]] [36m[INFO] - info……[0m
+2023-02-21 15:12:19,336 [Loggers.py:[line:113]] [33m[WARNING] - warn……[0m
+2023-02-21 15:12:19,336 [Loggers.py:[line:114]] [35m[CRITICAL] - critical……[0m
+2023-02-21 15:12:19,336 [Loggers.py:[line:115]] [31m[ERROR] - error……[0m
+2023-02-21 15:13:08,940 Loggers.py:[line:111] [32m[DEBUG] - debug……[0m
+2023-02-21 15:13:08,940 Loggers.py:[line:112] [36m[INFO] - info……[0m
+2023-02-21 15:13:08,940 Loggers.py:[line:113] [33m[WARNING] - warn……[0m
+2023-02-21 15:13:08,940 Loggers.py:[line:114] [35m[CRITICAL] - critical……[0m
+2023-02-21 15:13:08,940 Loggers.py:[line:115] [31m[ERROR] - error……[0m
+2023-02-21 15:13:15,426  Loggers.py:[line:111] [32m[DEBUG] - debug……[0m
+2023-02-21 15:13:15,426  Loggers.py:[line:112] [36m[INFO] - info……[0m
+2023-02-21 15:13:15,426  Loggers.py:[line:113] [33m[WARNING] - warn……[0m
+2023-02-21 15:13:15,427  Loggers.py:[line:114] [35m[CRITICAL] - critical……[0m
+2023-02-21 15:13:15,427  Loggers.py:[line:115] [31m[ERROR] - error……[0m
+2023-02-21 15:13:21,768  Loggers.py:[line:111]  [32m[DEBUG] - debug……[0m
+2023-02-21 15:13:21,768  Loggers.py:[line:112]  [36m[INFO] - info……[0m
+2023-02-21 15:13:21,768  Loggers.py:[line:113]  [33m[WARNING] - warn……[0m
+2023-02-21 15:13:21,768  Loggers.py:[line:114]  [35m[CRITICAL] - critical……[0m
+2023-02-21 15:13:21,768  Loggers.py:[line:115]  [31m[ERROR] - error……[0m
+2023-02-21 15:13:27,644  slll.py:[line:10]  [36m[INFO] - 11112312321321[0m
+2023-02-21 15:13:27,646  slll.py:[line:16]  [36m[INFO] - sdasdasdasdasda[0m
+2023-02-21 15:13:50,265  Loggers.py:[line:111][32m[DEBUG] - debug……[0m
+2023-02-21 15:13:50,265  Loggers.py:[line:112][36m[INFO] - info……[0m
+2023-02-21 15:13:50,265  Loggers.py:[line:113][33m[WARNING] - warn……[0m
+2023-02-21 15:13:50,265  Loggers.py:[line:114][35m[CRITICAL] - critical……[0m
+2023-02-21 15:13:50,266  Loggers.py:[line:115][31m[ERROR] - error……[0m
+2023-02-21 15:14:02,209 Loggers.py:[line:111] [32m[DEBUG] - debug……[0m
+2023-02-21 15:14:02,209 Loggers.py:[line:112] [36m[INFO] - info……[0m
+2023-02-21 15:14:02,210 Loggers.py:[line:113] [33m[WARNING] - warn……[0m
+2023-02-21 15:14:02,210 Loggers.py:[line:114] [35m[CRITICAL] - critical……[0m
+2023-02-21 15:14:02,210 Loggers.py:[line:115] [31m[ERROR] - error……[0m
+[2023-02-21 15:14:43,673] sshtunnel.py->read_private_key_file line:1314 [ERROR]Password is required for key /Users/voryn/.ssh/id_rsa
+[2023-02-21 15:14:44,294] transport.py->_log line:1873 [INFO]Connected (version 2.0, client OpenSSH_7.4)
+[2023-02-21 15:14:45,820] transport.py->_log line:1873 [INFO]Authentication (publickey) successful!
+2023-02-21 15:14:52,424 FrogLogin.py:[line:92] [36m[INFO] - 登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/zfgj', 'id': 43211195, 'timeDifference': 1655272332791, 'invitationCode': '', 'parentalId': '', 'eName': 'wuhaibo', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1655272334000, 'telphone': '13521011463', 'grade': 20, 'birthday': '760982400000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/IVNV7v', 'vcrUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/video/TXVideo_1655272366919e5356b439f824874b6e434b634fb01a21655207866283.mp4', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '4923995137', 'videoCheckStatus': '20', 'authenticationStatus': 'NotCertified', 'social': 'ambassador', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '5eea9afb2a7a49228ed3ee86d84580db', 'token': '43A+RRpUI75GizWjalKLPg==', 'headImgUrl': 'https://d38ll5ex55ai1q.cloudfront.net/video/cover/1663846398464.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676963690397', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676963692207, 'userId': 43211195}}[0m
+[2023-02-21 15:14:52,424] FrogLogin.py->frog_login line:92 [INFO][36m[INFO] - 登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/zfgj', 'id': 43211195, 'timeDifference': 1655272332791, 'invitationCode': '', 'parentalId': '', 'eName': 'wuhaibo', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1655272334000, 'telphone': '13521011463', 'grade': 20, 'birthday': '760982400000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/IVNV7v', 'vcrUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/video/TXVideo_1655272366919e5356b439f824874b6e434b634fb01a21655207866283.mp4', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '4923995137', 'videoCheckStatus': '20', 'authenticationStatus': 'NotCertified', 'social': 'ambassador', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '5eea9afb2a7a49228ed3ee86d84580db', 'token': '43A+RRpUI75GizWjalKLPg==', 'headImgUrl': 'https://d38ll5ex55ai1q.cloudfront.net/video/cover/1663846398464.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676963690397', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676963692207, 'userId': 43211195}}[0m
+2023-02-21 15:14:52,424 FrogLogin.py:[line:99] [36m[INFO] - 登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/zfgj', 'id': 43211195, 'timeDifference': 1655272332791, 'invitationCode': '', 'parentalId': '', 'eName': 'wuhaibo', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1655272334000, 'telphone': '13521011463', 'grade': 20, 'birthday': '760982400000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/IVNV7v', 'vcrUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/video/TXVideo_1655272366919e5356b439f824874b6e434b634fb01a21655207866283.mp4', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '4923995137', 'videoCheckStatus': '20', 'authenticationStatus': 'NotCertified', 'social': 'ambassador', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '5eea9afb2a7a49228ed3ee86d84580db', 'token': '43A+RRpUI75GizWjalKLPg==', 'headImgUrl': 'https://d38ll5ex55ai1q.cloudfront.net/video/cover/1663846398464.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676963690397', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676963692207, 'userId': 43211195}}[0m
+[2023-02-21 15:14:52,424] FrogLogin.py->frog_header line:99 [INFO][36m[INFO] - 登陆返回: {'code': 200, 'body': {'data': {'isValidSmsCode': True, 'dataObject': {'country': '2', 'cName': '', 'vcrImgUrl': '', 'ambassadorFlag': False, 'userInviteLinkUrl': 'https://getit.frogapp.me/zfgj', 'id': 43211195, 'timeDifference': 1655272332791, 'invitationCode': '', 'parentalId': '', 'eName': 'wuhaibo', 'accountType': '', 'onlinePopFlag': 'ON', 'areaCode': '86', 'regTime': 1655272334000, 'telphone': '13521011463', 'grade': 20, 'birthday': '760982400000', 'gender': '0', 'userLinkUrl': 'http://dev.yofrog.me/IVNV7v', 'vcrUrl': 'https://dx265v3f1t09x.cloudfront.net/public/frog/android/video/TXVideo_1655272366919e5356b439f824874b6e434b634fb01a21655207866283.mp4', 'balanceSum': 0, 'registerMode': 'mobile', 'frogId': '4923995137', 'videoCheckStatus': '20', 'authenticationStatus': 'NotCertified', 'social': 'ambassador', 'userName': '', 'onlyFriendFlag': 'ON', 'sId': '5eea9afb2a7a49228ed3ee86d84580db', 'token': '43A+RRpUI75GizWjalKLPg==', 'headImgUrl': 'https://d38ll5ex55ai1q.cloudfront.net/video/cover/1663846398464.webp', 'location': ''}, 'errCode': 0, 'isBinding': False, 'dataType': 'login'}, 'id': '1676963690397', 'state': {'msg': 'Login Successful;Login Successful', 'code': 0}, 'time': 1676963692207, 'userId': 43211195}}[0m
+2023-02-21 15:14:52,425 test_otherApi.py:[line:17] [36m[INFO] - 保存客户端开启和关闭时间[0m
+[2023-02-21 15:14:52,425] test_otherApi.py->test_saveAppOnlineTime line:17 [INFO][36m[INFO] - 保存客户端开启和关闭时间[0m
+2023-02-21 15:14:54,201 test_otherApi.py:[line:22] [36m[INFO] - saveAppOnlineTime:{'code': 200, 'body': {'id': '1676963692425', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676963694040, 'userId': 43211195}}[0m
+[2023-02-21 15:14:54,201] test_otherApi.py->test_saveAppOnlineTime line:22 [INFO][36m[INFO] - saveAppOnlineTime:{'code': 200, 'body': {'id': '1676963692425', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676963694040, 'userId': 43211195}}[0m
+2023-02-21 15:15:28,080 Loggers.py:[line:111] [32m[DEBUG] - debug……[0m
+2023-02-21 15:15:28,080 Loggers.py:[line:112] [36m[INFO] - info……[0m
+2023-02-21 15:15:28,080 Loggers.py:[line:113] [33m[WARNING] - warn……[0m
+2023-02-21 15:15:28,080 Loggers.py:[line:114] [35m[CRITICAL] - critical……[0m
+2023-02-21 15:15:28,080 Loggers.py:[line:115] [31m[ERROR] - error……[0m
+[2023-02-21 15:16:12,111] Loggers.py:[line:111] [32m[DEBUG] - debug……[0m
+[2023-02-21 15:16:12,112] Loggers.py:[line:112] [36m[INFO] - info……[0m
+[2023-02-21 15:16:12,112] Loggers.py:[line:113] [33m[WARNING] - warn……[0m
+[2023-02-21 15:16:12,112] Loggers.py:[line:114] [35m[CRITICAL] - critical……[0m
+[2023-02-21 15:16:12,112] Loggers.py:[line:115] [31m[ERROR] - error……[0m
+[2023-02-21 15:16:22,106] [Loggers.py:[line:111]] [32m[DEBUG] - debug……[0m
+[2023-02-21 15:16:22,106] [Loggers.py:[line:112]] [36m[INFO] - info……[0m
+[2023-02-21 15:16:22,106] [Loggers.py:[line:113]] [33m[WARNING] - warn……[0m
+[2023-02-21 15:16:22,106] [Loggers.py:[line:114]] [35m[CRITICAL] - critical……[0m
+[2023-02-21 15:16:22,106] [Loggers.py:[line:115]] [31m[ERROR] - error……[0m
+"2023-02-21 15:17:49,195 - DEBUG: [32m[DEBUG] - debug……[0m"
+"2023-02-21 15:17:49,195 - INFO: [36m[INFO] - info……[0m"
+"2023-02-21 15:17:49,195 - WARNING: [33m[WARNING] - warn……[0m"
+"2023-02-21 15:17:49,196 - CRITICAL: [35m[CRITICAL] - critical……[0m"
+"2023-02-21 15:17:49,196 - ERROR: [31m[ERROR] - error……[0m"
+2023-02-21 15:18:01,205 - DEBUG: [32m[DEBUG] - debug……[0m
+2023-02-21 15:18:01,205 - INFO: [36m[INFO] - info……[0m
+2023-02-21 15:18:01,205 - WARNING: [33m[WARNING] - warn……[0m
+2023-02-21 15:18:01,205 - CRITICAL: [35m[CRITICAL] - critical……[0m
+2023-02-21 15:18:01,205 - ERROR: [31m[ERROR] - error……[0m
+2023-02-21 15:18:05,486 - INFO: [36m[INFO] - 11112312321321[0m
+2023-02-21 15:18:05,487 - INFO: [36m[INFO] - sdasdasdasdasda[0m
+[2023-02-21 15:19:30,116] [Loggers.py:[line:111]] [32m[DEBUG] - debug……[0m
+[2023-02-21 15:19:30,117] [Loggers.py:[line:112]] [36m[INFO] - info……[0m
+[2023-02-21 15:19:30,117] [Loggers.py:[line:113]] [33m[WARNING] - warn……[0m
+[2023-02-21 15:19:30,117] [Loggers.py:[line:114]] [35m[CRITICAL] - critical……[0m
+[2023-02-21 15:19:30,117] [Loggers.py:[line:115]] [31m[ERROR] - error……[0m
+[2023-02-21 15:20:16,724] [Loggers.py:[line:111]] [32m[DEBUG] - debug……[0m
+[2023-02-21 15:20:16,725] [Loggers.py:[line:112]] [36m[INFO] - info……[0m
+[2023-02-21 15:20:16,725] [Loggers.py:[line:113]] [33m[WARNING] - warn……[0m
+[2023-02-21 15:20:16,725] [Loggers.py:[line:114]] [35m[CRITICAL] - critical……[0m
+[2023-02-21 15:20:16,725] [Loggers.py:[line:115]] [31m[ERROR] - error……[0m
+[2023-02-21 15:20:44,281] [Loggers.py:[line:111]][32m[DEBUG] - debug……[0m
+[2023-02-21 15:20:44,281] [Loggers.py:[line:112]][36m[INFO] - info……[0m
+[2023-02-21 15:20:44,281] [Loggers.py:[line:113]][33m[WARNING] - warn……[0m
+[2023-02-21 15:20:44,281] [Loggers.py:[line:114]][35m[CRITICAL] - critical……[0m
+[2023-02-21 15:20:44,281] [Loggers.py:[line:115]][31m[ERROR] - error……[0m
+[2023-02-21 15:23:32,549] [Loggers.py:[line:111]] [32m[DEBUG] - debug……[0m
+[2023-02-21 15:23:32,550] [Loggers.py:[line:112]] [36m[INFO] - info……[0m
+[2023-02-21 15:23:32,551] [Loggers.py:[line:113]] [33m[WARNING] - warn……[0m
+[2023-02-21 15:23:32,551] [Loggers.py:[line:114]] [35m[CRITICAL] - critical……[0m
+[2023-02-21 15:23:32,551] [Loggers.py:[line:115]] [31m[ERROR] - error……[0m
+[2023-02-21 15:43:05,992] [Loggers.py:[line:111]] [32m[DEBUG] - debug……[0m
+[2023-02-21 15:43:05,992] [Loggers.py:[line:112]] [36m[INFO] - info……[0m
+[2023-02-21 15:43:05,993] [Loggers.py:[line:113]] [33m[WARNING] - warn……[0m
+[2023-02-21 15:43:05,993] [Loggers.py:[line:114]] [35m[CRITICAL] - critical……[0m
+[2023-02-21 15:43:05,993] [Loggers.py:[line:115]] [31m[ERROR] - error……[0m
+[2023-02-21 15:47:40,320] [Loggers.py:[line:115]] DEBUG[32m[DEBUG] - debug……[0m
+[2023-02-21 15:47:40,321] [Loggers.py:[line:116]] INFO[36m[INFO] - info……[0m
+[2023-02-21 15:47:40,321] [Loggers.py:[line:117]] WARNING[33m[WARNING] - warn……[0m
+[2023-02-21 15:47:40,321] [Loggers.py:[line:118]] CRITICAL[35m[CRITICAL] - critical……[0m
+[2023-02-21 15:47:40,321] [Loggers.py:[line:119]] ERROR[31m[ERROR] - error……[0m
+[2023-02-21 15:47:53,683] [Loggers.py:[line:115]] [DEBUG - ][32m[DEBUG] - debug……[0m
+[2023-02-21 15:47:53,683] [Loggers.py:[line:116]] [INFO - ][36m[INFO] - info……[0m
+[2023-02-21 15:47:53,683] [Loggers.py:[line:117]] [WARNING - ][33m[WARNING] - warn……[0m
+[2023-02-21 15:47:53,683] [Loggers.py:[line:118]] [CRITICAL - ][35m[CRITICAL] - critical……[0m
+[2023-02-21 15:47:53,684] [Loggers.py:[line:119]] [ERROR - ][31m[ERROR] - error……[0m
+[2023-02-21 15:48:03,726] [Loggers.py:[line:115]] [DEBUG] - [32m[DEBUG] - debug……[0m
+[2023-02-21 15:48:03,727] [Loggers.py:[line:116]] [INFO] - [36m[INFO] - info……[0m
+[2023-02-21 15:48:03,727] [Loggers.py:[line:117]] [WARNING] - [33m[WARNING] - warn……[0m
+[2023-02-21 15:48:03,727] [Loggers.py:[line:118]] [CRITICAL] - [35m[CRITICAL] - critical……[0m
+[2023-02-21 15:48:03,727] [Loggers.py:[line:119]] [ERROR] - [31m[ERROR] - error……[0m
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+DEBUG
+INFO
+WARNING
+CRITICAL
+ERROR
+2023-02-21 19:57:24,347 Loggers.py:[line:111] [32m[DEBUG] - debug……[0m
+2023-02-21 19:57:24,348 Loggers.py:[line:112] [36m[INFO] - info……[0m
+2023-02-21 19:57:24,349 Loggers.py:[line:113] [33m[WARNING] - warn……[0m
+2023-02-21 19:57:24,349 Loggers.py:[line:114] [35m[CRITICAL] - critical……[0m
+2023-02-21 19:57:24,350 Loggers.py:[line:115] [31m[ERROR] - error……[0m
+2023-02-21 20:02:44,644 Loggers.py:[line:111] [32m[DEBUG] - debug……[0m
+2023-02-21 20:02:44,645 Loggers.py:[line:112] [36m[INFO] - info……[0m
+2023-02-21 20:02:44,645 Loggers.py:[line:113] [33m[WARNING] - warn……[0m
+2023-02-21 20:02:44,645 Loggers.py:[line:114] [35m[CRITICAL] - critical……[0m
+2023-02-21 20:02:44,645 Loggers.py:[line:115] [31m[ERROR] - error……[0m

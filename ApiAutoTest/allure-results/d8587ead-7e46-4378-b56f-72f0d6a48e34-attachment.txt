@@ -1,0 +1,5 @@
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 获取好友状态信息接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/friend/getFriendStatusInfo HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 res:{'code': 200, 'body': {'data': {'addFriendStatus': '2', 'followStatus': '2', 'blacklist': False, 'friendUserId': 62867000, 'addFriendNoBestFriendStatus': '2'}, 'id': '1676704050575', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676704053064, 'userId': 94561788}}

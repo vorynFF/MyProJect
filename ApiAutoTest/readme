@@ -1,0 +1,19 @@
+python安装python3.7以上
+
+一、安装程序运行依赖库：
+1. pycharm为项目建设虚拟环境：
+https://www.pianshen.com/article/1846933379/
+2. 安装程序依赖
+pip3 install -r requirements.txt  -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+
+注意：需要修改虚拟安装包的名字：crypto -> Crypto
+位置：venv/lib/python3.8/
+
+二、安装allure
+1. allure命令行安装：brew install allure
+
+三、执行：
+1. pytest --alluredir allure-results --clean-alluredir
+2. allure generate allure-results -o allure-report --clean
+
+pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt

@@ -1,0 +1,5 @@
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 新用户引导动画状态获取接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v2/api/user/getBootAnimationFlag HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 getBootAnimationFlag:{'code': 200, 'body': {'data': {'bootAnimationFlag': '2'}, 'id': '1676703898536', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703909825, 'userId': 29468478}}

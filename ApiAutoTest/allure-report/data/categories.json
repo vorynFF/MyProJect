@@ -1,0 +1,118 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "KeyError: 'videoId'",
+      "children" : [ {
+        "name" : "test_getGroupVideoInfo",
+        "uid" : "b762f1f74eb6616d",
+        "parentUid" : "16768dc66e7f2a56738ad1a6af3db301",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676703636369,
+          "stop" : 1676703649827,
+          "duration" : 13458
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : true,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "16768dc66e7f2a56738ad1a6af3db301"
+    }, {
+      "name" : "KeyError: 'friendUserAccId'",
+      "children" : [ {
+        "name" : "test_updateBestFriend",
+        "uid" : "1ca3d6d850a85737",
+        "parentUid" : "52476b91321bb3ca3b7c9c31dbeb7178",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676703686896,
+          "stop" : 1676703689806,
+          "duration" : 2910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : true,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "52476b91321bb3ca3b7c9c31dbeb7178"
+    }, {
+      "name" : "KeyError: 'sponsorUserId'",
+      "children" : [ {
+        "name" : "test_getUserNominatedList",
+        "uid" : "f68cb2979375673f",
+        "parentUid" : "47b0e5450ee07e53415b15b0d5d38803",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676704032305,
+          "stop" : 1676704033923,
+          "duration" : 1618
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47b0e5450ee07e53415b15b0d5d38803"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 3684 == (3684 + 3)\n +  where 3684 = int('3684')\n +  and   3684 = int(3684)",
+      "children" : [ {
+        "name" : "test_givingGiftsV2",
+        "uid" : "9e8ce8aca498c841",
+        "parentUid" : "c1414f30eaa897e6ffb98bd676dd660e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1676703744872,
+          "stop" : 1676703763249,
+          "duration" : 18377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1414f30eaa897e6ffb98bd676dd660e"
+    }, {
+      "name" : "AssertionError: assert 'Please log b...nother option' == 'Login Succes...in Successful'\n  - Login Successful;Login Successful\n  + Please log back into your account using another option;Please log back into your account using another option",
+      "children" : [ {
+        "name" : "test_oauthLogin",
+        "uid" : "72c99dede3de3824",
+        "parentUid" : "f12060d11210640dbc17ae7c7f54a505",
+        "status" : "failed",
+        "time" : {
+          "start" : 1676704054472,
+          "stop" : 1676704055734,
+          "duration" : 1262
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f12060d11210640dbc17ae7c7f54a505"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "uid" : "619943eee9dd2600",
+  "name" : "test_mock_client",
+  "fullName" : "testcases.test_pond.test_pond.TestPond#test_mock_client",
+  "historyId" : "efd0b4cbc67ed1b3235fa32a7ba87819",
+  "time" : {
+    "start" : 1676703938171,
+    "stop" : 1676703939333,
+    "duration" : 1162
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1676703614227,
+      "stop" : 1676703614342,
+      "duration" : 115
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "login_fb",
+    "time" : {
+      "start" : 1676703935526,
+      "stop" : 1676703938170,
+      "duration" : 2644
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7da2fea867d9c3c0",
+      "name" : "log",
+      "source" : "7da2fea867d9c3c0.txt",
+      "type" : "text/plain",
+      "size" : 3378
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases.test_pond"
+  }, {
+    "name" : "suite",
+    "value" : "test_pond"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPond"
+  }, {
+    "name" : "host",
+    "value" : "voryndeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "34442-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_pond.test_pond"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "9c832d71ce10f577",
+        "reportUrl" : "http://localhost:8080/job/aaa/16/allure/#testresult/9c832d71ce10f577",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676702811902,
+          "stop" : 1676702813347,
+          "duration" : 1445
+        }
+      }, {
+        "uid" : "d4065f0adbfb3136",
+        "reportUrl" : "http://localhost:8080/job/aaa/15/allure/#testresult/d4065f0adbfb3136",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676701780050,
+          "stop" : 1676701781510,
+          "duration" : 1460
+        }
+      }, {
+        "uid" : "fb24fd1fb1e3cea0",
+        "reportUrl" : "http://localhost:8080/job/aaa/14/allure/#testresult/fb24fd1fb1e3cea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676701105856,
+          "stop" : 1676701107997,
+          "duration" : 2141
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "619943eee9dd2600.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,11 @@
+jira:
+  url: 'http://jira.frogcool.com'
+  username: 'ceshi-admin'
+  password: '!K5!rmS5buoC'
+  frogProjects: ['ANDROID', 'IOS', 'SERVER']
+
+
+enterprise_weChat:
+  ANDROID_webhook_url: 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=d0703a29-1748-47e1-ab79-829afc7ee224'
+  IOS_webhook_url: 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=6860c578-e16b-42d7-a453-3afb0118c759'
+  SERVER_webhook_url: 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=842b400f-89cb-4a75-b2ce-dedbc7aa636f'

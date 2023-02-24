@@ -1,0 +1,153 @@
+{
+  "uid" : "1ca3d6d850a85737",
+  "name" : "test_updateBestFriend",
+  "fullName" : "testcases.test_friends.test_bestfriendstab.TestBestFriendsTab#test_updateBestFriend",
+  "historyId" : "9d1193372c38e0ed051d7c1d05484ad7",
+  "time" : {
+    "start" : 1676703686896,
+    "stop" : 1676703689806,
+    "duration" : 2910
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'friendUserAccId'",
+  "statusTrace" : "self = <test_bestfriendstab.TestBestFriendsTab object at 0x7fbf6a306670>\nlogin_whb = {'caller': 'app', 'content-type': 'application/json', 'encrypt': 'md5', 'etag': 'qqq', ...}\n\n    def test_updateBestFriend(self, login_whb):\n        header = login_whb\n        url = frog[\"host\"] + yml['updateBestFriendApi']\n        del_data = {'type': 'del', 'friendUserId': '86724026'}\n        logger.info(\"删除或者添加亲密好友合并接口\")\n        del_res = frog_req.post(url, headers=header, json=del_data)\n        logger.info(\"updateBestFriend: {}\".format(del_res))\n        if del_res['body']['state']['msg'] != \"Operation succeeded;Operation succeeded\":\n            add_data = {'type': 'add', 'friendUserId': '86724026'}\n            add_res = frog_req.post(url, headers=header, json=add_data)\n            logger.info(\"updateBestFriend: {}\".format(add_res))\n            assert add_res['body']['state']['msg'] == \"Operation succeeded;Operation succeeded\"\n>           aes_friendUserAccId = AESCipher(\"rC5bF3tR7mP1rX1k\").decrypt(add_res['body']['data']['friendUserAccId'])\nE           KeyError: 'friendUserAccId'\n\ntestcases/test_friends/test_bestfriendstab.py:181: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : true,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1676703614227,
+      "stop" : 1676703614342,
+      "duration" : 115
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "login_whb",
+    "time" : {
+      "start" : 1676703683536,
+      "stop" : 1676703686896,
+      "duration" : 3360
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'friendUserAccId'",
+    "statusTrace" : "self = <test_bestfriendstab.TestBestFriendsTab object at 0x7fbf6a306670>\nlogin_whb = {'caller': 'app', 'content-type': 'application/json', 'encrypt': 'md5', 'etag': 'qqq', ...}\n\n    def test_updateBestFriend(self, login_whb):\n        header = login_whb\n        url = frog[\"host\"] + yml['updateBestFriendApi']\n        del_data = {'type': 'del', 'friendUserId': '86724026'}\n        logger.info(\"删除或者添加亲密好友合并接口\")\n        del_res = frog_req.post(url, headers=header, json=del_data)\n        logger.info(\"updateBestFriend: {}\".format(del_res))\n        if del_res['body']['state']['msg'] != \"Operation succeeded;Operation succeeded\":\n            add_data = {'type': 'add', 'friendUserId': '86724026'}\n            add_res = frog_req.post(url, headers=header, json=add_data)\n            logger.info(\"updateBestFriend: {}\".format(add_res))\n            assert add_res['body']['state']['msg'] == \"Operation succeeded;Operation succeeded\"\n>           aes_friendUserAccId = AESCipher(\"rC5bF3tR7mP1rX1k\").decrypt(add_res['body']['data']['friendUserAccId'])\nE           KeyError: 'friendUserAccId'\n\ntestcases/test_friends/test_bestfriendstab.py:181: KeyError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "13e1647b47a3cd28",
+      "name" : "log",
+      "source" : "13e1647b47a3cd28.txt",
+      "type" : "text/plain",
+      "size" : 4865
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases.test_friends"
+  }, {
+    "name" : "suite",
+    "value" : "test_bestfriendstab"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBestFriendsTab"
+  }, {
+    "name" : "host",
+    "value" : "voryndeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "34442-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_friends.test_bestfriendstab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "ad544d5d7199ff2b",
+        "reportUrl" : "http://localhost:8080/job/aaa/16/allure/#testresult/ad544d5d7199ff2b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676702560095,
+          "stop" : 1676702561864,
+          "duration" : 1769
+        }
+      }, {
+        "uid" : "e72db9bcd5ef1da3",
+        "reportUrl" : "http://localhost:8080/job/aaa/15/allure/#testresult/e72db9bcd5ef1da3",
+        "status" : "broken",
+        "statusDetails" : "KeyError: 'friendUserAccId'",
+        "time" : {
+          "start" : 1676701540714,
+          "stop" : 1676701543609,
+          "duration" : 2895
+        }
+      }, {
+        "uid" : "af9dc0a33160d83c",
+        "reportUrl" : "http://localhost:8080/job/aaa/14/allure/#testresult/af9dc0a33160d83c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676700845387,
+          "stop" : 1676700847128,
+          "duration" : 1741
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1ca3d6d850a85737.json",
+  "parameterValues" : [ ]
+}

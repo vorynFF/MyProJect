@@ -1,0 +1,197 @@
+frog:
+  user:
+    mobile:
+      wuhaibo: 13521011463
+      wuhaibo2: 18600861484
+
+  api:
+    login:
+      sendSmsV3Api: /growAlong/v1/api/common/sendSmsV3  #发送短信验证码
+      validSmsCodeApi: /growAlong/v1/api/common/validSmsCode
+    camera:
+      groupVideo:
+        getGroupVideoMsgListApi: /growAlong/v1/api/multiple/getGroupVideoMsgList   #获取合拍待处理列表接口
+        getGroupVideoInfoApi: /growAlong/v1/api/multiple/getGroupVideoInfo        #获取单个合拍任务信息接口
+      mention:
+        getUserMentionMsgPageListApi: /growAlong/v2/api/mention/getUserMentionMsgPageList #
+      videoQA:
+        saveVideoQaApi: /growAlong/v1/api/videoQA/saveVideoQA       #保存提问或者回答问题接口
+        getVideoQAListApi: /growAlong/v1/api/videoQA/getVideoQAList  #获取匿名提问记录列表接口
+        weatherApi: /growAlong/v1/api/common/weather    #根据坐标获取天气接口
+    friends:
+      bestfriendstab:
+        getIndexFriendListInfoApi: /growAlong/v1/api/index/getIndexFriendListInfo   #获取首页亲密好友信息接口
+        getAddBestFriendListApi: /growAlong/v1/api/bestFriend/getAddBestFriendList  #获取被添加亲密好友列表接口
+        addBestFriendApi: /growAlong/v1/api/bestFriend/addBestFriend  #首页添加亲密好友接口
+        delBestFriendApi: /growAlong/v1/api/bestFriend/delBestFriend #首页删除亲密好友接口
+        updateBestFriendApi: /growAlong/v1/api/bestFriend/updateBestFriend #删除或者添加亲密好友合并接口
+      friend:
+        getBestFriendOfListApi: /growAlong/v2/api/user/getBestFriendOfList   #获取共同好友接口请求
+        getMutualFriendListApi: /growAlong/v2/api/user/getMutualFriendList  #获取共同好友接口请求
+        getVideoUserInfoApi: /growAlong/v2/api/user/getVideoUserInfo
+        getFriendOLKApi: /growAlong/v1/api/friend/getFriendOLK      #获取通讯录接口
+        attentionV2Api: /growAlong/v1/api/friend/attentionV2       #新版关注接口1.9.4
+        saveFriendOLKApi: /growAlong/v1/api/friend/saveFriendOLK      #保存通讯录接口
+        attentionConfirmApi: /growAlong/v1/api/friend/attentionConfirm  #新版关注确认接口
+        delRequestMsgApi: /growAlong/v1/api/friend/delRequestMsg   #request消息删除接口
+      gettag:
+        getTagTypeSelectListApi: /growAlong/v1/api/videoTag/getTagTypeSelectList   #获取视频拍摄标签选择列表接口
+        getTagTypeListApi: /growAlong/v1/api/videoTag/getTagTypeList  #获取主题大分类列表接口
+      sendToFriendList:
+        sendToFriendListApi: /growAlong/v1/api/user/getFriendMsgUserListV2   #获取sendTo列表接口
+    im:
+      gift:
+        getPurchasedGiftsListV2Api: /growAlong/v1/api/gift/getPurchasedGiftsListV2    # 获取礼物列表接口
+        getGiftInfoListApi: /growAlong/v1/api/gift/getGiftInfoList      # 送礼物可兑换的礼物列表接口
+        givingGiftsV2Api:   /growAlong/v1/api/gift/givingGiftsV2     #批量送礼物接口
+        getFriendGiftBoostListApi: /growAlong/v1/api/gift/getFriendGiftBoostList   #获取礼物榜列表接口
+      requestMsg:
+        getRequestMsgListApi: /growAlong/v1/api/friend/getRequestMsgList  #request消息用户列表接口
+        getRequestFriendMsgListApi: /growAlong/v1/api/friend/getRequestFriendMsgList  #request消息单个聊天记录列表接口
+        getMsgChatStatusApi: /growAlong/v1/api/friend/getMsgChatStatus    #获取是否可真聊天接口
+        getAccessTokenApi: /im/user/getAccessToken  #获取AccessToken
+      sendLookHistoryTip:
+        sendLookHistoryTipApi: /growAlong/v1/api/friend/sendLookHistoryTip  #云信消息已读提示接口
+      whatsUp:
+        getUserShakeRecUserInfoListApi: /growAlong/v1/api/shake/getUserShakeRecUserInfoList #获取可能认识页面MutualFriendS列表接口
+        getWhatsUpStatusApi: /growAlong/v1/api/friend/getWhatsUpStatus   #获取好友的whatsUpStatus状态接口
+        saveUserShakeApi: /growAlong/v1/api/shake/saveUserShake     #日常好友列表里敲击接口
+        ignoreUserShakeApi: /growAlong/v1/api/shake/ignoreUserShake  #whatsUp消息忽略接口
+        quitImShakeApi: /growAlong/v1/api/shake/quitImShake #whatsUp 敲击接口
+    metab:
+      explore:
+        userExplore: /growAlong/v1/api/user/explore/getUserExplore #获取explore页面数据
+        chatExploreData: /im/explore/getChatExploreData   #获取用户explore 数据
+      userEnameList:
+        userEnameListApi: /growAlong/v1/api/search/getUserENameList    #用户英文名搜索接口
+      impression:
+        impressionSaveApi: /growAlong/v1/api/h5/impressionSave        #H5匿名回答提交测试接口
+        delImpressionMsgApi: /growAlong/v1/api/impression/delImpressionMsg       #删除匿名印象消息接口
+        saveImpressionMsgApi: /growAlong/v1/api/impression/saveImpressionMsg   #保存匿名印象接口
+        getImpressionMsgListApi: /growAlong/v1/api/impression/getImpressionMsgList   #获取匿名印象记录列表接口
+        QASaveApi: /growAlong/v1/api/h5/QASave    #H5QA保存接口
+      meta:
+        getUserVlogVideoListApi: /frogVideoPond/api/v1/user/video/getUserVlogVideoList   #个人中心日常视频列表接口
+        getUserApi: /growAlong/v1/api/user/getUser   #获取用户信息接口增加数据
+        getFriendUserApi: /growAlong/v1/api/user/getFriendUser  #获取好友用户信息接口
+        getIndexMsgRecListV2Api: /growAlong/v1/api/index/getIndexMsgRecListV2  #礼物点赞好友彩虹泡记录动态新接口
+        getFriendListApi: /growAlong/v1/api/friend/getFriendsList  #Friends好友列表接口
+        getUserAuthCardsListApi: /growAlong/v1/api/userCards/getUserAuthCardsList #获取卡片认证状态列表接口
+        getPurchaseListApi: /growAlong/v1/api/coursePackage/getPurchaseList #获取充值商品列表接口
+        getGiftInfoListApi: /growAlong/v1/api/gift/getGiftInfoList  #送礼物可兑换的礼物列表接口
+        buyGiftsApi: /growAlong/v1/api/gift/buyGifts    #购买礼物接口
+        getToolkitTxtApi: /growAlong/v1/api/user/getToolkitTxt   #获取视频人脸贴纸文字接口
+        saveToolkitTxtApi: /growAlong/v1/api/user/saveToolkitTxt  #保存视频人脸贴纸文字接口
+        sendExpressionApi: /growAlong/v1/api/gift/sendExpression  #1.8感谢和表情发送接口
+        getUserENameListApi: /growAlong/v1/api/search/getUserENameList   #用户英文名搜索接口-tiktok,ins
+      personalVideo:
+        getUserVideoRepeatedlyListApi: /frogVideoPond/api/v1/user/video/getUserVideoRepeatedlyList   #重复播放视频列表接口
+        getUserNewsVlogVideoUnreadListApi: /frogVideoPond/api/v1/user/video/getUserNewsVlogVideoUnreadList #获取有未读视频用户播放列表接口
+        getUserNewsVlogVideoReadListApi: /frogVideoPond/api/v1/user/video/getUserNewsVlogVideoReadList  #获取已读视频用户动态播放列表接口
+        saveNewsVlogVideoReadApi: /frogVideoPond/api/v1/user/video/saveNewsVlogVideoRead   #设置用户好友动态用户已读接口
+        getBootAnimationFlagApi: /growAlong/v2/api/user/getBootAnimationFlag #新用户引导动画状态获取接口
+        saveBootAnimationFlagApi: /growAlong/v2/api/user/saveBootAnimationFlag  #新用户引导动画状态设置接口
+        createDesktopComponentsApi: /growAlong/v2/api/user/createDesktopComponents   #ios小组件
+        getUserVlogCreateVideoListApi: /frogVideoPond/api/v1/user/video/getUserVlogCreateVideoList #合成视频列表接口
+        getCorrelationSubCreateVideoListApi: /frogVideoPond/api/v1/user/video/getCorrelationSubCreateVideoList  #合成子视频列表
+      saveUserPhoneBook:
+        saveUserPhoneBookListApi: /growAlong/v1/api/friend/saveUserPhoneBookList  #上传通讯录接口
+    pond:
+      video:
+        saveVideoToFriendSupApi: /growAlong/v1/api/video/saveVideoToFriendSup    #子视频批量添加到主视频接口
+      videoPlayUrl:
+        getVideoPlayUrl: /growAlong/v1/api/video/getVideoPlayUrl  #视频播放前获取视频地址接口
+        getPurchasedGiftsListV2Api: /growAlong/v1/api/gift/getPurchasedGiftsListV2  #购买礼物列表v2接口
+      pondList:
+        indexMsgUnreadNumberApi: /growAlong/v1/api/index/indexMsgUnreadNumber  #获取谁把userid加为best friend
+        getPondVideoListApi: /frogVideoPond/api/v1/video/Pond/getPondVideoList #
+        getVideoRepeatedListApi: /frogVideoPond/api/v1/user/video/getUserVideoRepeatedlyList #获取重复播放视频列表接口
+      pondNominated:
+        getUserNominatedListApi: /growAlong/v1/api/multiple/getUserNominatedList  #nominated列表接口
+        getFriendFeedListApi: /growAlong/v1/api/index/getFriendFeedList #好友动态列表接口
+        quickAddListApi: /growAlong/v1/api/friend/quickAddList  #获取推荐好友用户列表接口
+        getPondTagVideoListApi: /frogVideoPond/api/v1/video/Pond/getPondTagVideoList #获取话题视频列表接口
+        getPondVideoListApi: /frogVideoPond/api/v1/video/Pond/getPondVideoList  #获取池塘视频列表接口
+      pondUser:
+        getVideoUserInfoApi: /growAlong/v2/api/user/getVideoUserInfo #获取视频页面，用户信息接口
+        getUserPondTagVideoListApi: /frogVideoPond/api/v1/video/Pond/getUserPondTagVideoList #获取当前用户池塘主题视频播放列表
+        getFriendStatusInfoApi: /growAlong/v1/api/friend/getFriendStatusInfo #获取好友状态信息接口
+        getFriendVlogListApi: /growAlong/v1/api/vlog/getFriendVlogList  #好友日常视频连播视频列表接口
+        oauthLoginApi: /growAlong/v1/api/user/oauthLogin  #一键登录接口
+        getVideoPlayInfoApi: /growAlong/v1/api/video/getVideoPlayInfo #获取视频播放页面信息接口
+        getHelpVideoApi: /growAlong/v1/api/user/getHelpVideo #获取用户帮助视频接口
+      videoBirthday:
+        saveVideoBirthdayApi: /growAlong/v1/api/videoPond/saveVideoBirthday  #保存池塘年龄
+    other:
+      otherApi:
+        saveAppOnlineTimeApi: /growAlong/v2/api/user/saveAppOnlineTime    #保存客户端开启和关闭时间
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

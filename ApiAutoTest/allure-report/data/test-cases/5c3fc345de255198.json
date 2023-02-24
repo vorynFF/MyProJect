@@ -1,0 +1,146 @@
+{
+  "uid" : "5c3fc345de255198",
+  "name" : "test_saveVideoBirthday",
+  "fullName" : "testcases.test_pond.test_saveVideoBirthday.TestSaveVideoBirthday#test_saveVideoBirthday",
+  "historyId" : "8114f8f382f0c754e929dad5608434d3",
+  "time" : {
+    "start" : 1676704064278,
+    "stop" : 1676704065548,
+    "duration" : 1270
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : true,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1676703614227,
+      "stop" : 1676703614342,
+      "duration" : 115
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "login_fb",
+    "time" : {
+      "start" : 1676704061583,
+      "stop" : 1676704064277,
+      "duration" : 2694
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8513ebf295dbfaa9",
+      "name" : "log",
+      "source" : "8513ebf295dbfaa9.txt",
+      "type" : "text/plain",
+      "size" : 3718
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases.test_pond"
+  }, {
+    "name" : "suite",
+    "value" : "test_saveVideoBirthday"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSaveVideoBirthday"
+  }, {
+    "name" : "host",
+    "value" : "voryndeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "34442-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_pond.test_saveVideoBirthday"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "c14e4e8f65fe9c6f",
+        "reportUrl" : "http://localhost:8080/job/aaa/16/allure/#testresult/c14e4e8f65fe9c6f",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert '14' == '13'\n  - 13\n  + 14",
+        "time" : {
+          "start" : 1676702945948,
+          "stop" : 1676702952451,
+          "duration" : 6503
+        }
+      }, {
+        "uid" : "558060d23944bc51",
+        "reportUrl" : "http://localhost:8080/job/aaa/15/allure/#testresult/558060d23944bc51",
+        "status" : "broken",
+        "statusDetails" : "KeyError: 'userId'",
+        "time" : {
+          "start" : 1676701907111,
+          "stop" : 1676701908673,
+          "duration" : 1562
+        }
+      }, {
+        "uid" : "7c6974a541b856b2",
+        "reportUrl" : "http://localhost:8080/job/aaa/14/allure/#testresult/7c6974a541b856b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676701248276,
+          "stop" : 1676701249539,
+          "duration" : 1263
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5c3fc345de255198.json",
+  "parameterValues" : [ ]
+}

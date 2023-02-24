@@ -1,0 +1,129 @@
+{
+  "uid" : "d32cf8c20bd44a84",
+  "name" : "test_h5QASave",
+  "fullName" : "testcases.test_metab.test_impression.TestH5#test_h5QASave",
+  "historyId" : "231aaaaf1c3691be64636604a122e542",
+  "time" : {
+    "start" : 1676703855584,
+    "stop" : 1676703856862,
+    "duration" : 1278
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1676703614227,
+      "stop" : 1676703614342,
+      "duration" : 115
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5957e2d0264e9567",
+      "name" : "log",
+      "source" : "5957e2d0264e9567.txt",
+      "type" : "text/plain",
+      "size" : 807
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases.test_metab"
+  }, {
+    "name" : "suite",
+    "value" : "test_impression"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestH5"
+  }, {
+    "name" : "host",
+    "value" : "voryndeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "34442-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_metab.test_impression"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "7cd35c97cad10f74",
+        "reportUrl" : "http://localhost:8080/job/aaa/16/allure/#testresult/7cd35c97cad10f74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676702723498,
+          "stop" : 1676702724775,
+          "duration" : 1277
+        }
+      }, {
+        "uid" : "e35625a26c92014a",
+        "reportUrl" : "http://localhost:8080/job/aaa/15/allure/#testresult/e35625a26c92014a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676701703786,
+          "stop" : 1676701705050,
+          "duration" : 1264
+        }
+      }, {
+        "uid" : "6da469b7502b102",
+        "reportUrl" : "http://localhost:8080/job/aaa/14/allure/#testresult/6da469b7502b102",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676701026276,
+          "stop" : 1676701028230,
+          "duration" : 1954
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d32cf8c20bd44a84.json",
+  "parameterValues" : [ ]
+}

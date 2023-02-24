@@ -1,0 +1,5 @@
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 H5匿名印象提交接口
+DEBUG    root:FrogRequest.py:30 发送post请求
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): aws.frogcool.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://aws.frogcool.com:443 "POST //growAlong/v1/api/h5/impressionSave HTTP/1.1" 200 None
+INFO     /Users/voryn/PycharmProjects/Frog/FrogApiAutoTest//log/2023_02_18_test.log:Loggers.py:70 h5ImpressionSave:{'code': 200, 'body': {'data': {'eName': '15800000054', 'userLinkUrl': 'https://test.frogcool.com/frog/?KEY=bMBFfi', 'userInviteLinkUrl': 'https://getit.frogapp.me/3CQ5'}, 'id': '1676703833519', 'state': {'msg': 'Operation succeeded;Operation succeeded', 'code': 0}, 'time': 1676703834971}}
